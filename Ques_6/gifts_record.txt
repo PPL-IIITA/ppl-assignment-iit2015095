@@ -1,0 +1,6326 @@
+gift -> 1
+type -> Luxury gift
+price -> 887
+value -> 8
+luxury : 6
+difficulty_for_gift :4
+
+gift -> 2
+type -> Luxury gift
+price -> 387
+value -> 3
+luxury : 10
+difficulty_for_gift :2
+
+gift -> 3
+type -> Utility gift
+price -> 28
+value -> 1
+utility value : 10
+utility class : C
+
+gift -> 4
+type -> Luxury gift
+price -> 541
+value -> 7
+luxury : 3
+difficulty_for_gift :7
+
+gift -> 5
+type -> Utility gift
+price -> 369
+value -> 8
+utility value : 10
+utility class : C
+
+gift -> 6
+type -> Utility gift
+price -> 863
+value -> 4
+utility value : 8
+utility class : B
+
+gift -> 7
+type -> Utility gift
+price -> 803
+value -> 3
+utility value : 9
+utility class : C
+
+gift -> 8
+type -> Essential gift
+price -> 394
+value -> 7
+
+gift -> 9
+type -> Luxury gift
+price -> 43
+value -> 10
+luxury : 4
+difficulty_for_gift :2
+
+gift -> 10
+type -> Utility gift
+price -> 785
+value -> 8
+utility value : 9
+utility class : C
+
+gift -> 11
+type -> Utility gift
+price -> 371
+value -> 4
+utility value : 7
+utility class : B
+
+gift -> 12
+type -> Utility gift
+price -> 957
+value -> 4
+utility value : 3
+utility class : C
+
+gift -> 13
+type -> Luxury gift
+price -> 282
+value -> 6
+luxury : 6
+difficulty_for_gift :5
+
+gift -> 14
+type -> Essential gift
+price -> 337
+value -> 6
+
+gift -> 15
+type -> Luxury gift
+price -> 730
+value -> 4
+luxury : 8
+difficulty_for_gift :5
+
+gift -> 16
+type -> Essential gift
+price -> 583
+value -> 6
+
+gift -> 17
+type -> Utility gift
+price -> 368
+value -> 5
+utility value : 5
+utility class : A
+
+gift -> 18
+type -> Utility gift
+price -> 88
+value -> 9
+utility value : 7
+utility class : C
+
+gift -> 19
+type -> Utility gift
+price -> 585
+value -> 4
+utility value : 2
+utility class : C
+
+gift -> 20
+type -> Luxury gift
+price -> 933
+value -> 1
+luxury : 7
+difficulty_for_gift :9
+
+gift -> 21
+type -> Luxury gift
+price -> 13
+value -> 7
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 22
+type -> Utility gift
+price -> 796
+value -> 1
+utility value : 5
+utility class : B
+
+gift -> 23
+type -> Utility gift
+price -> 602
+value -> 8
+utility value : 3
+utility class : A
+
+gift -> 24
+type -> Essential gift
+price -> 653
+value -> 7
+
+gift -> 25
+type -> Luxury gift
+price -> 281
+value -> 7
+luxury : 2
+difficulty_for_gift :6
+
+gift -> 26
+type -> Utility gift
+price -> 445
+value -> 10
+utility value : 1
+utility class : A
+
+gift -> 27
+type -> Essential gift
+price -> 118
+value -> 8
+
+gift -> 28
+type -> Utility gift
+price -> 482
+value -> 6
+utility value : 10
+utility class : B
+
+gift -> 29
+type -> Essential gift
+price -> 857
+value -> 8
+
+gift -> 30
+type -> Essential gift
+price -> 587
+value -> 6
+
+gift -> 31
+type -> Luxury gift
+price -> 684
+value -> 10
+luxury : 5
+difficulty_for_gift :9
+
+gift -> 32
+type -> Essential gift
+price -> 733
+value -> 10
+
+gift -> 33
+type -> Essential gift
+price -> 20
+value -> 1
+
+gift -> 34
+type -> Essential gift
+price -> 709
+value -> 6
+
+gift -> 35
+type -> Luxury gift
+price -> 150
+value -> 7
+luxury : 4
+difficulty_for_gift :9
+
+gift -> 36
+type -> Luxury gift
+price -> 847
+value -> 2
+luxury : 2
+difficulty_for_gift :6
+
+gift -> 37
+type -> Utility gift
+price -> 489
+value -> 5
+utility value : 9
+utility class : B
+
+gift -> 38
+type -> Utility gift
+price -> 194
+value -> 1
+utility value : 5
+utility class : B
+
+gift -> 39
+type -> Essential gift
+price -> 915
+value -> 8
+
+gift -> 40
+type -> Utility gift
+price -> 744
+value -> 2
+utility value : 8
+utility class : B
+
+gift -> 41
+type -> Essential gift
+price -> 937
+value -> 3
+
+gift -> 42
+type -> Utility gift
+price -> 438
+value -> 9
+utility value : 6
+utility class : C
+
+gift -> 43
+type -> Essential gift
+price -> 122
+value -> 9
+
+gift -> 44
+type -> Luxury gift
+price -> 30
+value -> 8
+luxury : 6
+difficulty_for_gift :4
+
+gift -> 45
+type -> Utility gift
+price -> 429
+value -> 4
+utility value : 2
+utility class : A
+
+gift -> 46
+type -> Essential gift
+price -> 777
+value -> 5
+
+gift -> 47
+type -> Luxury gift
+price -> 764
+value -> 4
+luxury : 9
+difficulty_for_gift :7
+
+gift -> 48
+type -> Luxury gift
+price -> 905
+value -> 9
+luxury : 9
+difficulty_for_gift :9
+
+gift -> 49
+type -> Essential gift
+price -> 918
+value -> 8
+
+gift -> 50
+type -> Essential gift
+price -> 325
+value -> 4
+
+gift -> 51
+type -> Essential gift
+price -> 184
+value -> 1
+
+gift -> 52
+type -> Utility gift
+price -> 773
+value -> 6
+utility value : 5
+utility class : A
+
+gift -> 53
+type -> Utility gift
+price -> 140
+value -> 5
+utility value : 7
+utility class : A
+
+gift -> 54
+type -> Utility gift
+price -> 543
+value -> 5
+utility value : 8
+utility class : A
+
+gift -> 55
+type -> Essential gift
+price -> 805
+value -> 9
+
+gift -> 56
+type -> Utility gift
+price -> 623
+value -> 9
+utility value : 10
+utility class : A
+
+gift -> 57
+type -> Luxury gift
+price -> 569
+value -> 1
+luxury : 3
+difficulty_for_gift :2
+
+gift -> 58
+type -> Luxury gift
+price -> 606
+value -> 2
+luxury : 2
+difficulty_for_gift :1
+
+gift -> 59
+type -> Luxury gift
+price -> 306
+value -> 1
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 60
+type -> Essential gift
+price -> 523
+value -> 6
+
+gift -> 61
+type -> Utility gift
+price -> 417
+value -> 3
+utility value : 9
+utility class : C
+
+gift -> 62
+type -> Essential gift
+price -> 63
+value -> 5
+
+gift -> 63
+type -> Essential gift
+price -> 37
+value -> 3
+
+gift -> 64
+type -> Utility gift
+price -> 380
+value -> 1
+utility value : 9
+utility class : C
+
+gift -> 65
+type -> Essential gift
+price -> 132
+value -> 2
+
+gift -> 66
+type -> Luxury gift
+price -> 934
+value -> 5
+luxury : 1
+difficulty_for_gift :4
+
+gift -> 67
+type -> Luxury gift
+price -> 982
+value -> 10
+luxury : 7
+difficulty_for_gift :10
+
+gift -> 68
+type -> Essential gift
+price -> 814
+value -> 9
+
+gift -> 69
+type -> Utility gift
+price -> 96
+value -> 7
+utility value : 7
+utility class : C
+
+gift -> 70
+type -> Essential gift
+price -> 91
+value -> 5
+
+gift -> 71
+type -> Essential gift
+price -> 543
+value -> 7
+
+gift -> 72
+type -> Luxury gift
+price -> 446
+value -> 7
+luxury : 10
+difficulty_for_gift :9
+
+gift -> 73
+type -> Utility gift
+price -> 413
+value -> 9
+utility value : 3
+utility class : A
+
+gift -> 74
+type -> Essential gift
+price -> 337
+value -> 1
+
+gift -> 75
+type -> Essential gift
+price -> 588
+value -> 7
+
+gift -> 76
+type -> Essential gift
+price -> 714
+value -> 3
+
+gift -> 77
+type -> Luxury gift
+price -> 256
+value -> 10
+luxury : 10
+difficulty_for_gift :2
+
+gift -> 78
+type -> Utility gift
+price -> 940
+value -> 2
+utility value : 1
+utility class : C
+
+gift -> 79
+type -> Utility gift
+price -> 229
+value -> 8
+utility value : 1
+utility class : A
+
+gift -> 80
+type -> Luxury gift
+price -> 921
+value -> 5
+luxury : 3
+difficulty_for_gift :10
+
+gift -> 81
+type -> Utility gift
+price -> 82
+value -> 1
+utility value : 5
+utility class : B
+
+gift -> 82
+type -> Essential gift
+price -> 673
+value -> 1
+
+gift -> 83
+type -> Luxury gift
+price -> 386
+value -> 3
+luxury : 10
+difficulty_for_gift :1
+
+gift -> 84
+type -> Utility gift
+price -> 899
+value -> 4
+utility value : 9
+utility class : C
+
+gift -> 85
+type -> Essential gift
+price -> 591
+value -> 10
+
+gift -> 86
+type -> Essential gift
+price -> 820
+value -> 7
+
+gift -> 87
+type -> Essential gift
+price -> 156
+value -> 5
+
+gift -> 88
+type -> Luxury gift
+price -> 380
+value -> 10
+luxury : 4
+difficulty_for_gift :7
+
+gift -> 89
+type -> Essential gift
+price -> 256
+value -> 1
+
+gift -> 90
+type -> Luxury gift
+price -> 580
+value -> 5
+luxury : 4
+difficulty_for_gift :6
+
+gift -> 91
+type -> Utility gift
+price -> 568
+value -> 5
+utility value : 4
+utility class : B
+
+gift -> 92
+type -> Utility gift
+price -> 327
+value -> 10
+utility value : 5
+utility class : B
+
+gift -> 93
+type -> Luxury gift
+price -> 507
+value -> 5
+luxury : 2
+difficulty_for_gift :3
+
+gift -> 94
+type -> Essential gift
+price -> 529
+value -> 10
+
+gift -> 95
+type -> Luxury gift
+price -> 909
+value -> 9
+luxury : 9
+difficulty_for_gift :7
+
+gift -> 96
+type -> Essential gift
+price -> 754
+value -> 9
+
+gift -> 97
+type -> Essential gift
+price -> 334
+value -> 4
+
+gift -> 98
+type -> Utility gift
+price -> 891
+value -> 5
+utility value : 8
+utility class : A
+
+gift -> 99
+type -> Utility gift
+price -> 530
+value -> 1
+utility value : 7
+utility class : A
+
+gift -> 100
+type -> Utility gift
+price -> 250
+value -> 1
+utility value : 4
+utility class : B
+
+gift -> 101
+type -> Essential gift
+price -> 498
+value -> 4
+
+gift -> 102
+type -> Luxury gift
+price -> 687
+value -> 6
+luxury : 3
+difficulty_for_gift :7
+
+gift -> 103
+type -> Luxury gift
+price -> 189
+value -> 8
+luxury : 10
+difficulty_for_gift :7
+
+gift -> 104
+type -> Essential gift
+price -> 415
+value -> 2
+
+gift -> 105
+type -> Essential gift
+price -> 305
+value -> 9
+
+gift -> 106
+type -> Luxury gift
+price -> 51
+value -> 9
+luxury : 7
+difficulty_for_gift :3
+
+gift -> 107
+type -> Utility gift
+price -> 698
+value -> 10
+utility value : 4
+utility class : C
+
+gift -> 108
+type -> Utility gift
+price -> 429
+value -> 4
+utility value : 1
+utility class : C
+
+gift -> 109
+type -> Utility gift
+price -> 539
+value -> 10
+utility value : 2
+utility class : C
+
+gift -> 110
+type -> Utility gift
+price -> 340
+value -> 3
+utility value : 6
+utility class : A
+
+gift -> 111
+type -> Essential gift
+price -> 630
+value -> 10
+
+gift -> 112
+type -> Essential gift
+price -> 286
+value -> 10
+
+gift -> 113
+type -> Utility gift
+price -> 336
+value -> 8
+utility value : 1
+utility class : B
+
+gift -> 114
+type -> Utility gift
+price -> 950
+value -> 10
+utility value : 8
+utility class : B
+
+gift -> 115
+type -> Essential gift
+price -> 796
+value -> 4
+
+gift -> 116
+type -> Essential gift
+price -> 830
+value -> 1
+
+gift -> 117
+type -> Essential gift
+price -> 341
+value -> 2
+
+gift -> 118
+type -> Essential gift
+price -> 827
+value -> 3
+
+gift -> 119
+type -> Utility gift
+price -> 43
+value -> 1
+utility value : 8
+utility class : A
+
+gift -> 120
+type -> Utility gift
+price -> 82
+value -> 10
+utility value : 1
+utility class : A
+
+gift -> 121
+type -> Utility gift
+price -> 368
+value -> 8
+utility value : 5
+utility class : A
+
+gift -> 122
+type -> Luxury gift
+price -> 525
+value -> 8
+luxury : 5
+difficulty_for_gift :9
+
+gift -> 123
+type -> Essential gift
+price -> 359
+value -> 3
+
+gift -> 124
+type -> Luxury gift
+price -> 101
+value -> 7
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 125
+type -> Luxury gift
+price -> 553
+value -> 9
+luxury : 10
+difficulty_for_gift :7
+
+gift -> 126
+type -> Luxury gift
+price -> 648
+value -> 1
+luxury : 2
+difficulty_for_gift :1
+
+gift -> 127
+type -> Utility gift
+price -> 594
+value -> 8
+utility value : 8
+utility class : C
+
+gift -> 128
+type -> Luxury gift
+price -> 215
+value -> 6
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 129
+type -> Essential gift
+price -> 480
+value -> 1
+
+gift -> 130
+type -> Luxury gift
+price -> 190
+value -> 5
+luxury : 6
+difficulty_for_gift :2
+
+gift -> 131
+type -> Utility gift
+price -> 434
+value -> 8
+utility value : 9
+utility class : B
+
+gift -> 132
+type -> Luxury gift
+price -> 771
+value -> 5
+luxury : 7
+difficulty_for_gift :8
+
+gift -> 133
+type -> Essential gift
+price -> 261
+value -> 10
+
+gift -> 134
+type -> Utility gift
+price -> 206
+value -> 10
+utility value : 8
+utility class : A
+
+gift -> 135
+type -> Utility gift
+price -> 784
+value -> 4
+utility value : 9
+utility class : C
+
+gift -> 136
+type -> Utility gift
+price -> 290
+value -> 4
+utility value : 8
+utility class : A
+
+gift -> 137
+type -> Essential gift
+price -> 315
+value -> 2
+
+gift -> 138
+type -> Essential gift
+price -> 101
+value -> 10
+
+gift -> 139
+type -> Utility gift
+price -> 439
+value -> 6
+utility value : 9
+utility class : A
+
+gift -> 140
+type -> Utility gift
+price -> 158
+value -> 2
+utility value : 4
+utility class : A
+
+gift -> 141
+type -> Luxury gift
+price -> 700
+value -> 8
+luxury : 10
+difficulty_for_gift :10
+
+gift -> 142
+type -> Luxury gift
+price -> 623
+value -> 5
+luxury : 4
+difficulty_for_gift :8
+
+gift -> 143
+type -> Essential gift
+price -> 463
+value -> 3
+
+gift -> 144
+type -> Utility gift
+price -> 293
+value -> 2
+utility value : 8
+utility class : A
+
+gift -> 145
+type -> Utility gift
+price -> 158
+value -> 5
+utility value : 2
+utility class : B
+
+gift -> 146
+type -> Luxury gift
+price -> 232
+value -> 2
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 147
+type -> Essential gift
+price -> 31
+value -> 9
+
+gift -> 148
+type -> Utility gift
+price -> 82
+value -> 7
+utility value : 7
+utility class : B
+
+gift -> 149
+type -> Essential gift
+price -> 140
+value -> 7
+
+gift -> 150
+type -> Luxury gift
+price -> 339
+value -> 1
+luxury : 9
+difficulty_for_gift :2
+
+gift -> 151
+type -> Essential gift
+price -> 863
+value -> 3
+
+gift -> 152
+type -> Essential gift
+price -> 978
+value -> 6
+
+gift -> 153
+type -> Utility gift
+price -> 905
+value -> 7
+utility value : 4
+utility class : C
+
+gift -> 154
+type -> Luxury gift
+price -> 858
+value -> 5
+luxury : 10
+difficulty_for_gift :2
+
+gift -> 155
+type -> Utility gift
+price -> 951
+value -> 7
+utility value : 1
+utility class : A
+
+gift -> 156
+type -> Utility gift
+price -> 564
+value -> 10
+utility value : 5
+utility class : A
+
+gift -> 157
+type -> Utility gift
+price -> 935
+value -> 2
+utility value : 6
+utility class : C
+
+gift -> 158
+type -> Essential gift
+price -> 590
+value -> 9
+
+gift -> 159
+type -> Essential gift
+price -> 919
+value -> 6
+
+gift -> 160
+type -> Luxury gift
+price -> 823
+value -> 3
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 161
+type -> Essential gift
+price -> 575
+value -> 7
+
+gift -> 162
+type -> Luxury gift
+price -> 487
+value -> 4
+luxury : 4
+difficulty_for_gift :5
+
+gift -> 163
+type -> Utility gift
+price -> 714
+value -> 10
+utility value : 8
+utility class : A
+
+gift -> 164
+type -> Utility gift
+price -> 89
+value -> 10
+utility value : 1
+utility class : C
+
+gift -> 165
+type -> Essential gift
+price -> 18
+value -> 7
+
+gift -> 166
+type -> Utility gift
+price -> 138
+value -> 2
+utility value : 4
+utility class : C
+
+gift -> 167
+type -> Luxury gift
+price -> 329
+value -> 6
+luxury : 2
+difficulty_for_gift :1
+
+gift -> 168
+type -> Essential gift
+price -> 218
+value -> 7
+
+gift -> 169
+type -> Utility gift
+price -> 56
+value -> 1
+utility value : 9
+utility class : A
+
+gift -> 170
+type -> Essential gift
+price -> 572
+value -> 2
+
+gift -> 171
+type -> Essential gift
+price -> 686
+value -> 10
+
+gift -> 172
+type -> Essential gift
+price -> 605
+value -> 2
+
+gift -> 173
+type -> Utility gift
+price -> 251
+value -> 9
+utility value : 4
+utility class : A
+
+gift -> 174
+type -> Utility gift
+price -> 196
+value -> 10
+utility value : 10
+utility class : C
+
+gift -> 175
+type -> Luxury gift
+price -> 227
+value -> 4
+luxury : 8
+difficulty_for_gift :7
+
+gift -> 176
+type -> Essential gift
+price -> 866
+value -> 1
+
+gift -> 177
+type -> Utility gift
+price -> 956
+value -> 1
+utility value : 9
+utility class : A
+
+gift -> 178
+type -> Essential gift
+price -> 533
+value -> 7
+
+gift -> 179
+type -> Luxury gift
+price -> 322
+value -> 1
+luxury : 5
+difficulty_for_gift :3
+
+gift -> 180
+type -> Utility gift
+price -> 235
+value -> 1
+utility value : 4
+utility class : C
+
+gift -> 181
+type -> Luxury gift
+price -> 831
+value -> 4
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 182
+type -> Essential gift
+price -> 574
+value -> 5
+
+gift -> 183
+type -> Luxury gift
+price -> 523
+value -> 8
+luxury : 5
+difficulty_for_gift :3
+
+gift -> 184
+type -> Essential gift
+price -> 233
+value -> 5
+
+gift -> 185
+type -> Luxury gift
+price -> 444
+value -> 9
+luxury : 7
+difficulty_for_gift :1
+
+gift -> 186
+type -> Luxury gift
+price -> 160
+value -> 3
+luxury : 3
+difficulty_for_gift :4
+
+gift -> 187
+type -> Utility gift
+price -> 849
+value -> 4
+utility value : 5
+utility class : B
+
+gift -> 188
+type -> Essential gift
+price -> 155
+value -> 6
+
+gift -> 189
+type -> Essential gift
+price -> 458
+value -> 6
+
+gift -> 190
+type -> Essential gift
+price -> 172
+value -> 7
+
+gift -> 191
+type -> Essential gift
+price -> 219
+value -> 2
+
+gift -> 192
+type -> Luxury gift
+price -> 654
+value -> 4
+luxury : 8
+difficulty_for_gift :10
+
+gift -> 193
+type -> Essential gift
+price -> 807
+value -> 8
+
+gift -> 194
+type -> Essential gift
+price -> 85
+value -> 9
+
+gift -> 195
+type -> Essential gift
+price -> 699
+value -> 2
+
+gift -> 196
+type -> Essential gift
+price -> 899
+value -> 6
+
+gift -> 197
+type -> Essential gift
+price -> 172
+value -> 10
+
+gift -> 198
+type -> Utility gift
+price -> 507
+value -> 1
+utility value : 7
+utility class : B
+
+gift -> 199
+type -> Luxury gift
+price -> 540
+value -> 1
+luxury : 9
+difficulty_for_gift :10
+
+gift -> 200
+type -> Essential gift
+price -> 82
+value -> 5
+
+gift -> 201
+type -> Essential gift
+price -> 990
+value -> 7
+
+gift -> 202
+type -> Luxury gift
+price -> 148
+value -> 4
+luxury : 8
+difficulty_for_gift :2
+
+gift -> 203
+type -> Utility gift
+price -> 123
+value -> 2
+utility value : 6
+utility class : A
+
+gift -> 204
+type -> Luxury gift
+price -> 591
+value -> 5
+luxury : 1
+difficulty_for_gift :2
+
+gift -> 205
+type -> Essential gift
+price -> 858
+value -> 5
+
+gift -> 206
+type -> Utility gift
+price -> 82
+value -> 4
+utility value : 1
+utility class : C
+
+gift -> 207
+type -> Utility gift
+price -> 182
+value -> 8
+utility value : 6
+utility class : B
+
+gift -> 208
+type -> Essential gift
+price -> 405
+value -> 3
+
+gift -> 209
+type -> Luxury gift
+price -> 552
+value -> 8
+luxury : 3
+difficulty_for_gift :5
+
+gift -> 210
+type -> Essential gift
+price -> 507
+value -> 6
+
+gift -> 211
+type -> Luxury gift
+price -> 709
+value -> 6
+luxury : 10
+difficulty_for_gift :3
+
+gift -> 212
+type -> Luxury gift
+price -> 484
+value -> 7
+luxury : 5
+difficulty_for_gift :8
+
+gift -> 213
+type -> Luxury gift
+price -> 588
+value -> 3
+luxury : 3
+difficulty_for_gift :2
+
+gift -> 214
+type -> Essential gift
+price -> 564
+value -> 1
+
+gift -> 215
+type -> Essential gift
+price -> 212
+value -> 6
+
+gift -> 216
+type -> Luxury gift
+price -> 286
+value -> 1
+luxury : 1
+difficulty_for_gift :4
+
+gift -> 217
+type -> Essential gift
+price -> 477
+value -> 7
+
+gift -> 218
+type -> Luxury gift
+price -> 893
+value -> 6
+luxury : 9
+difficulty_for_gift :10
+
+gift -> 219
+type -> Utility gift
+price -> 491
+value -> 7
+utility value : 1
+utility class : C
+
+gift -> 220
+type -> Utility gift
+price -> 338
+value -> 9
+utility value : 3
+utility class : A
+
+gift -> 221
+type -> Essential gift
+price -> 956
+value -> 9
+
+gift -> 222
+type -> Utility gift
+price -> 816
+value -> 1
+utility value : 8
+utility class : C
+
+gift -> 223
+type -> Essential gift
+price -> 723
+value -> 4
+
+gift -> 224
+type -> Luxury gift
+price -> 658
+value -> 8
+luxury : 8
+difficulty_for_gift :7
+
+gift -> 225
+type -> Utility gift
+price -> 72
+value -> 2
+utility value : 10
+utility class : C
+
+gift -> 226
+type -> Essential gift
+price -> 640
+value -> 9
+
+gift -> 227
+type -> Essential gift
+price -> 611
+value -> 4
+
+gift -> 228
+type -> Essential gift
+price -> 891
+value -> 7
+
+gift -> 229
+type -> Luxury gift
+price -> 553
+value -> 2
+luxury : 8
+difficulty_for_gift :8
+
+gift -> 230
+type -> Utility gift
+price -> 658
+value -> 7
+utility value : 3
+utility class : B
+
+gift -> 231
+type -> Utility gift
+price -> 736
+value -> 9
+utility value : 9
+utility class : C
+
+gift -> 232
+type -> Essential gift
+price -> 777
+value -> 6
+
+gift -> 233
+type -> Luxury gift
+price -> 429
+value -> 5
+luxury : 9
+difficulty_for_gift :9
+
+gift -> 234
+type -> Utility gift
+price -> 279
+value -> 8
+utility value : 6
+utility class : B
+
+gift -> 235
+type -> Essential gift
+price -> 446
+value -> 1
+
+gift -> 236
+type -> Utility gift
+price -> 998
+value -> 4
+utility value : 3
+utility class : B
+
+gift -> 237
+type -> Essential gift
+price -> 422
+value -> 4
+
+gift -> 238
+type -> Luxury gift
+price -> 440
+value -> 5
+luxury : 2
+difficulty_for_gift :10
+
+gift -> 239
+type -> Utility gift
+price -> 958
+value -> 5
+utility value : 2
+utility class : C
+
+gift -> 240
+type -> Luxury gift
+price -> 542
+value -> 7
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 241
+type -> Utility gift
+price -> 483
+value -> 10
+utility value : 8
+utility class : A
+
+gift -> 242
+type -> Utility gift
+price -> 16
+value -> 7
+utility value : 2
+utility class : A
+
+gift -> 243
+type -> Utility gift
+price -> 264
+value -> 2
+utility value : 3
+utility class : C
+
+gift -> 244
+type -> Utility gift
+price -> 860
+value -> 9
+utility value : 2
+utility class : C
+
+gift -> 245
+type -> Essential gift
+price -> 857
+value -> 1
+
+gift -> 246
+type -> Utility gift
+price -> 971
+value -> 3
+utility value : 6
+utility class : B
+
+gift -> 247
+type -> Utility gift
+price -> 518
+value -> 2
+utility value : 4
+utility class : B
+
+gift -> 248
+type -> Utility gift
+price -> 301
+value -> 7
+utility value : 9
+utility class : A
+
+gift -> 249
+type -> Essential gift
+price -> 490
+value -> 3
+
+gift -> 250
+type -> Utility gift
+price -> 105
+value -> 6
+utility value : 10
+utility class : B
+
+gift -> 251
+type -> Utility gift
+price -> 539
+value -> 10
+utility value : 7
+utility class : C
+
+gift -> 252
+type -> Utility gift
+price -> 845
+value -> 1
+utility value : 10
+utility class : B
+
+gift -> 253
+type -> Utility gift
+price -> 315
+value -> 7
+utility value : 7
+utility class : C
+
+gift -> 254
+type -> Essential gift
+price -> 970
+value -> 6
+
+gift -> 255
+type -> Essential gift
+price -> 622
+value -> 4
+
+gift -> 256
+type -> Essential gift
+price -> 290
+value -> 10
+
+gift -> 257
+type -> Luxury gift
+price -> 674
+value -> 5
+luxury : 6
+difficulty_for_gift :9
+
+gift -> 258
+type -> Essential gift
+price -> 878
+value -> 4
+
+gift -> 259
+type -> Utility gift
+price -> 199
+value -> 10
+utility value : 6
+utility class : C
+
+gift -> 260
+type -> Luxury gift
+price -> 469
+value -> 7
+luxury : 1
+difficulty_for_gift :4
+
+gift -> 261
+type -> Luxury gift
+price -> 287
+value -> 2
+luxury : 9
+difficulty_for_gift :8
+
+gift -> 262
+type -> Luxury gift
+price -> 246
+value -> 2
+luxury : 2
+difficulty_for_gift :1
+
+gift -> 263
+type -> Luxury gift
+price -> 51
+value -> 1
+luxury : 5
+difficulty_for_gift :6
+
+gift -> 264
+type -> Luxury gift
+price -> 43
+value -> 5
+luxury : 10
+difficulty_for_gift :10
+
+gift -> 265
+type -> Utility gift
+price -> 845
+value -> 10
+utility value : 9
+utility class : B
+
+gift -> 266
+type -> Essential gift
+price -> 384
+value -> 10
+
+gift -> 267
+type -> Essential gift
+price -> 344
+value -> 5
+
+gift -> 268
+type -> Luxury gift
+price -> 982
+value -> 6
+luxury : 7
+difficulty_for_gift :2
+
+gift -> 269
+type -> Utility gift
+price -> 913
+value -> 3
+utility value : 10
+utility class : A
+
+gift -> 270
+type -> Utility gift
+price -> 132
+value -> 3
+utility value : 5
+utility class : C
+
+gift -> 271
+type -> Luxury gift
+price -> 217
+value -> 4
+luxury : 8
+difficulty_for_gift :8
+
+gift -> 272
+type -> Luxury gift
+price -> 574
+value -> 8
+luxury : 3
+difficulty_for_gift :6
+
+gift -> 273
+type -> Utility gift
+price -> 798
+value -> 7
+utility value : 9
+utility class : A
+
+gift -> 274
+type -> Utility gift
+price -> 727
+value -> 5
+utility value : 1
+utility class : A
+
+gift -> 275
+type -> Luxury gift
+price -> 949
+value -> 6
+luxury : 1
+difficulty_for_gift :10
+
+gift -> 276
+type -> Utility gift
+price -> 899
+value -> 1
+utility value : 3
+utility class : B
+
+gift -> 277
+type -> Luxury gift
+price -> 281
+value -> 2
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 278
+type -> Luxury gift
+price -> 727
+value -> 4
+luxury : 10
+difficulty_for_gift :1
+
+gift -> 279
+type -> Utility gift
+price -> 724
+value -> 9
+utility value : 8
+utility class : C
+
+gift -> 280
+type -> Essential gift
+price -> 711
+value -> 1
+
+gift -> 281
+type -> Utility gift
+price -> 691
+value -> 4
+utility value : 2
+utility class : A
+
+gift -> 282
+type -> Luxury gift
+price -> 422
+value -> 8
+luxury : 10
+difficulty_for_gift :2
+
+gift -> 283
+type -> Essential gift
+price -> 744
+value -> 6
+
+gift -> 284
+type -> Luxury gift
+price -> 25
+value -> 9
+luxury : 5
+difficulty_for_gift :7
+
+gift -> 285
+type -> Utility gift
+price -> 233
+value -> 10
+utility value : 1
+utility class : C
+
+gift -> 286
+type -> Essential gift
+price -> 434
+value -> 4
+
+gift -> 287
+type -> Luxury gift
+price -> 280
+value -> 5
+luxury : 10
+difficulty_for_gift :10
+
+gift -> 288
+type -> Utility gift
+price -> 340
+value -> 5
+utility value : 3
+utility class : B
+
+gift -> 289
+type -> Luxury gift
+price -> 516
+value -> 10
+luxury : 6
+difficulty_for_gift :7
+
+gift -> 290
+type -> Essential gift
+price -> 12
+value -> 5
+
+gift -> 291
+type -> Essential gift
+price -> 388
+value -> 3
+
+gift -> 292
+type -> Essential gift
+price -> 774
+value -> 4
+
+gift -> 293
+type -> Essential gift
+price -> 743
+value -> 5
+
+gift -> 294
+type -> Essential gift
+price -> 125
+value -> 10
+
+gift -> 295
+type -> Essential gift
+price -> 64
+value -> 9
+
+gift -> 296
+type -> Utility gift
+price -> 713
+value -> 10
+utility value : 6
+utility class : B
+
+gift -> 297
+type -> Essential gift
+price -> 800
+value -> 5
+
+gift -> 298
+type -> Luxury gift
+price -> 316
+value -> 6
+luxury : 8
+difficulty_for_gift :4
+
+gift -> 299
+type -> Luxury gift
+price -> 451
+value -> 8
+luxury : 3
+difficulty_for_gift :8
+
+gift -> 300
+type -> Essential gift
+price -> 90
+value -> 1
+
+gift -> 301
+type -> Utility gift
+price -> 961
+value -> 5
+utility value : 2
+utility class : B
+
+gift -> 302
+type -> Utility gift
+price -> 404
+value -> 7
+utility value : 3
+utility class : C
+
+gift -> 303
+type -> Utility gift
+price -> 606
+value -> 4
+utility value : 10
+utility class : A
+
+gift -> 304
+type -> Essential gift
+price -> 379
+value -> 8
+
+gift -> 305
+type -> Essential gift
+price -> 46
+value -> 3
+
+gift -> 306
+type -> Luxury gift
+price -> 900
+value -> 2
+luxury : 10
+difficulty_for_gift :7
+
+gift -> 307
+type -> Luxury gift
+price -> 427
+value -> 9
+luxury : 5
+difficulty_for_gift :7
+
+gift -> 308
+type -> Essential gift
+price -> 108
+value -> 3
+
+gift -> 309
+type -> Luxury gift
+price -> 665
+value -> 2
+luxury : 1
+difficulty_for_gift :1
+
+gift -> 310
+type -> Essential gift
+price -> 995
+value -> 5
+
+gift -> 311
+type -> Utility gift
+price -> 438
+value -> 4
+utility value : 5
+utility class : A
+
+gift -> 312
+type -> Utility gift
+price -> 932
+value -> 8
+utility value : 10
+utility class : C
+
+gift -> 313
+type -> Utility gift
+price -> 609
+value -> 10
+utility value : 6
+utility class : C
+
+gift -> 314
+type -> Utility gift
+price -> 172
+value -> 6
+utility value : 10
+utility class : C
+
+gift -> 315
+type -> Utility gift
+price -> 677
+value -> 3
+utility value : 2
+utility class : B
+
+gift -> 316
+type -> Luxury gift
+price -> 744
+value -> 3
+luxury : 2
+difficulty_for_gift :10
+
+gift -> 317
+type -> Essential gift
+price -> 567
+value -> 9
+
+gift -> 318
+type -> Essential gift
+price -> 51
+value -> 7
+
+gift -> 319
+type -> Utility gift
+price -> 334
+value -> 4
+utility value : 7
+utility class : A
+
+gift -> 320
+type -> Luxury gift
+price -> 795
+value -> 9
+luxury : 6
+difficulty_for_gift :2
+
+gift -> 321
+type -> Luxury gift
+price -> 640
+value -> 8
+luxury : 4
+difficulty_for_gift :9
+
+gift -> 322
+type -> Utility gift
+price -> 940
+value -> 3
+utility value : 4
+utility class : B
+
+gift -> 323
+type -> Essential gift
+price -> 258
+value -> 5
+
+gift -> 324
+type -> Utility gift
+price -> 347
+value -> 4
+utility value : 9
+utility class : A
+
+gift -> 325
+type -> Utility gift
+price -> 541
+value -> 2
+utility value : 3
+utility class : B
+
+gift -> 326
+type -> Utility gift
+price -> 159
+value -> 6
+utility value : 7
+utility class : C
+
+gift -> 327
+type -> Essential gift
+price -> 473
+value -> 7
+
+gift -> 328
+type -> Utility gift
+price -> 112
+value -> 4
+utility value : 4
+utility class : B
+
+gift -> 329
+type -> Utility gift
+price -> 543
+value -> 7
+utility value : 10
+utility class : B
+
+gift -> 330
+type -> Luxury gift
+price -> 597
+value -> 1
+luxury : 8
+difficulty_for_gift :5
+
+gift -> 331
+type -> Utility gift
+price -> 758
+value -> 10
+utility value : 1
+utility class : B
+
+gift -> 332
+type -> Essential gift
+price -> 833
+value -> 7
+
+gift -> 333
+type -> Luxury gift
+price -> 991
+value -> 4
+luxury : 6
+difficulty_for_gift :6
+
+gift -> 334
+type -> Luxury gift
+price -> 108
+value -> 2
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 335
+type -> Essential gift
+price -> 541
+value -> 5
+
+gift -> 336
+type -> Utility gift
+price -> 84
+value -> 1
+utility value : 3
+utility class : C
+
+gift -> 337
+type -> Utility gift
+price -> 441
+value -> 10
+utility value : 4
+utility class : A
+
+gift -> 338
+type -> Utility gift
+price -> 874
+value -> 7
+utility value : 5
+utility class : A
+
+gift -> 339
+type -> Luxury gift
+price -> 350
+value -> 2
+luxury : 1
+difficulty_for_gift :10
+
+gift -> 340
+type -> Luxury gift
+price -> 166
+value -> 7
+luxury : 3
+difficulty_for_gift :6
+
+gift -> 341
+type -> Essential gift
+price -> 592
+value -> 8
+
+gift -> 342
+type -> Luxury gift
+price -> 485
+value -> 2
+luxury : 2
+difficulty_for_gift :10
+
+gift -> 343
+type -> Luxury gift
+price -> 54
+value -> 9
+luxury : 8
+difficulty_for_gift :5
+
+gift -> 344
+type -> Utility gift
+price -> 544
+value -> 2
+utility value : 4
+utility class : C
+
+gift -> 345
+type -> Essential gift
+price -> 640
+value -> 4
+
+gift -> 346
+type -> Luxury gift
+price -> 989
+value -> 5
+luxury : 1
+difficulty_for_gift :1
+
+gift -> 347
+type -> Luxury gift
+price -> 487
+value -> 9
+luxury : 3
+difficulty_for_gift :4
+
+gift -> 348
+type -> Essential gift
+price -> 696
+value -> 1
+
+gift -> 349
+type -> Luxury gift
+price -> 180
+value -> 3
+luxury : 7
+difficulty_for_gift :9
+
+gift -> 350
+type -> Essential gift
+price -> 473
+value -> 9
+
+gift -> 351
+type -> Luxury gift
+price -> 967
+value -> 8
+luxury : 9
+difficulty_for_gift :8
+
+gift -> 352
+type -> Utility gift
+price -> 517
+value -> 7
+utility value : 3
+utility class : A
+
+gift -> 353
+type -> Utility gift
+price -> 901
+value -> 4
+utility value : 8
+utility class : C
+
+gift -> 354
+type -> Utility gift
+price -> 36
+value -> 2
+utility value : 8
+utility class : B
+
+gift -> 355
+type -> Utility gift
+price -> 155
+value -> 2
+utility value : 7
+utility class : A
+
+gift -> 356
+type -> Essential gift
+price -> 326
+value -> 5
+
+gift -> 357
+type -> Essential gift
+price -> 798
+value -> 4
+
+gift -> 358
+type -> Utility gift
+price -> 116
+value -> 1
+utility value : 2
+utility class : A
+
+gift -> 359
+type -> Utility gift
+price -> 898
+value -> 1
+utility value : 8
+utility class : B
+
+gift -> 360
+type -> Utility gift
+price -> 350
+value -> 4
+utility value : 10
+utility class : A
+
+gift -> 361
+type -> Luxury gift
+price -> 915
+value -> 6
+luxury : 6
+difficulty_for_gift :6
+
+gift -> 362
+type -> Utility gift
+price -> 931
+value -> 7
+utility value : 3
+utility class : A
+
+gift -> 363
+type -> Luxury gift
+price -> 570
+value -> 3
+luxury : 10
+difficulty_for_gift :7
+
+gift -> 364
+type -> Luxury gift
+price -> 396
+value -> 4
+luxury : 9
+difficulty_for_gift :7
+
+gift -> 365
+type -> Essential gift
+price -> 614
+value -> 7
+
+gift -> 366
+type -> Luxury gift
+price -> 63
+value -> 7
+luxury : 10
+difficulty_for_gift :4
+
+gift -> 367
+type -> Luxury gift
+price -> 509
+value -> 8
+luxury : 7
+difficulty_for_gift :6
+
+gift -> 368
+type -> Utility gift
+price -> 545
+value -> 1
+utility value : 1
+utility class : B
+
+gift -> 369
+type -> Essential gift
+price -> 566
+value -> 5
+
+gift -> 370
+type -> Utility gift
+price -> 135
+value -> 7
+utility value : 9
+utility class : C
+
+gift -> 371
+type -> Luxury gift
+price -> 304
+value -> 7
+luxury : 3
+difficulty_for_gift :3
+
+gift -> 372
+type -> Essential gift
+price -> 808
+value -> 1
+
+gift -> 373
+type -> Luxury gift
+price -> 870
+value -> 7
+luxury : 6
+difficulty_for_gift :5
+
+gift -> 374
+type -> Utility gift
+price -> 325
+value -> 3
+utility value : 6
+utility class : B
+
+gift -> 375
+type -> Essential gift
+price -> 362
+value -> 4
+
+gift -> 376
+type -> Essential gift
+price -> 188
+value -> 2
+
+gift -> 377
+type -> Luxury gift
+price -> 982
+value -> 1
+luxury : 9
+difficulty_for_gift :10
+
+gift -> 378
+type -> Luxury gift
+price -> 942
+value -> 4
+luxury : 5
+difficulty_for_gift :9
+
+gift -> 379
+type -> Luxury gift
+price -> 709
+value -> 3
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 380
+type -> Luxury gift
+price -> 164
+value -> 7
+luxury : 2
+difficulty_for_gift :1
+
+gift -> 381
+type -> Luxury gift
+price -> 488
+value -> 5
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 382
+type -> Essential gift
+price -> 694
+value -> 4
+
+gift -> 383
+type -> Luxury gift
+price -> 881
+value -> 5
+luxury : 4
+difficulty_for_gift :4
+
+gift -> 384
+type -> Essential gift
+price -> 383
+value -> 5
+
+gift -> 385
+type -> Utility gift
+price -> 324
+value -> 9
+utility value : 2
+utility class : C
+
+gift -> 386
+type -> Luxury gift
+price -> 812
+value -> 6
+luxury : 9
+difficulty_for_gift :2
+
+gift -> 387
+type -> Utility gift
+price -> 684
+value -> 10
+utility value : 8
+utility class : B
+
+gift -> 388
+type -> Essential gift
+price -> 465
+value -> 10
+
+gift -> 389
+type -> Utility gift
+price -> 108
+value -> 3
+utility value : 2
+utility class : B
+
+gift -> 390
+type -> Luxury gift
+price -> 624
+value -> 8
+luxury : 8
+difficulty_for_gift :7
+
+gift -> 391
+type -> Utility gift
+price -> 440
+value -> 2
+utility value : 1
+utility class : C
+
+gift -> 392
+type -> Luxury gift
+price -> 372
+value -> 9
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 393
+type -> Essential gift
+price -> 765
+value -> 8
+
+gift -> 394
+type -> Essential gift
+price -> 801
+value -> 8
+
+gift -> 395
+type -> Luxury gift
+price -> 336
+value -> 4
+luxury : 1
+difficulty_for_gift :8
+
+gift -> 396
+type -> Essential gift
+price -> 950
+value -> 10
+
+gift -> 397
+type -> Luxury gift
+price -> 691
+value -> 3
+luxury : 8
+difficulty_for_gift :10
+
+gift -> 398
+type -> Utility gift
+price -> 336
+value -> 3
+utility value : 1
+utility class : C
+
+gift -> 399
+type -> Essential gift
+price -> 256
+value -> 10
+
+gift -> 400
+type -> Essential gift
+price -> 26
+value -> 7
+
+gift -> 401
+type -> Luxury gift
+price -> 261
+value -> 3
+luxury : 1
+difficulty_for_gift :8
+
+gift -> 402
+type -> Luxury gift
+price -> 288
+value -> 4
+luxury : 1
+difficulty_for_gift :2
+
+gift -> 403
+type -> Luxury gift
+price -> 998
+value -> 6
+luxury : 8
+difficulty_for_gift :9
+
+gift -> 404
+type -> Utility gift
+price -> 170
+value -> 1
+utility value : 8
+utility class : A
+
+gift -> 405
+type -> Utility gift
+price -> 564
+value -> 2
+utility value : 1
+utility class : B
+
+gift -> 406
+type -> Utility gift
+price -> 268
+value -> 4
+utility value : 3
+utility class : B
+
+gift -> 407
+type -> Luxury gift
+price -> 36
+value -> 4
+luxury : 4
+difficulty_for_gift :9
+
+gift -> 408
+type -> Utility gift
+price -> 769
+value -> 6
+utility value : 9
+utility class : B
+
+gift -> 409
+type -> Utility gift
+price -> 377
+value -> 10
+utility value : 4
+utility class : C
+
+gift -> 410
+type -> Luxury gift
+price -> 255
+value -> 4
+luxury : 8
+difficulty_for_gift :2
+
+gift -> 411
+type -> Essential gift
+price -> 930
+value -> 7
+
+gift -> 412
+type -> Luxury gift
+price -> 943
+value -> 1
+luxury : 3
+difficulty_for_gift :10
+
+gift -> 413
+type -> Luxury gift
+price -> 748
+value -> 5
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 414
+type -> Utility gift
+price -> 282
+value -> 3
+utility value : 4
+utility class : B
+
+gift -> 415
+type -> Essential gift
+price -> 172
+value -> 4
+
+gift -> 416
+type -> Essential gift
+price -> 900
+value -> 3
+
+gift -> 417
+type -> Utility gift
+price -> 756
+value -> 2
+utility value : 1
+utility class : C
+
+gift -> 418
+type -> Utility gift
+price -> 924
+value -> 4
+utility value : 1
+utility class : C
+
+gift -> 419
+type -> Utility gift
+price -> 943
+value -> 3
+utility value : 3
+utility class : C
+
+gift -> 420
+type -> Utility gift
+price -> 760
+value -> 9
+utility value : 6
+utility class : A
+
+gift -> 421
+type -> Utility gift
+price -> 159
+value -> 7
+utility value : 1
+utility class : B
+
+gift -> 422
+type -> Utility gift
+price -> 615
+value -> 4
+utility value : 8
+utility class : C
+
+gift -> 423
+type -> Luxury gift
+price -> 422
+value -> 1
+luxury : 10
+difficulty_for_gift :4
+
+gift -> 424
+type -> Essential gift
+price -> 833
+value -> 7
+
+gift -> 425
+type -> Essential gift
+price -> 834
+value -> 9
+
+gift -> 426
+type -> Essential gift
+price -> 128
+value -> 1
+
+gift -> 427
+type -> Essential gift
+price -> 632
+value -> 10
+
+gift -> 428
+type -> Essential gift
+price -> 342
+value -> 7
+
+gift -> 429
+type -> Luxury gift
+price -> 459
+value -> 6
+luxury : 1
+difficulty_for_gift :2
+
+gift -> 430
+type -> Essential gift
+price -> 990
+value -> 8
+
+gift -> 431
+type -> Utility gift
+price -> 927
+value -> 3
+utility value : 9
+utility class : C
+
+gift -> 432
+type -> Essential gift
+price -> 1
+value -> 3
+
+gift -> 433
+type -> Luxury gift
+price -> 833
+value -> 9
+luxury : 2
+difficulty_for_gift :8
+
+gift -> 434
+type -> Luxury gift
+price -> 170
+value -> 8
+luxury : 10
+difficulty_for_gift :9
+
+gift -> 435
+type -> Essential gift
+price -> 140
+value -> 9
+
+gift -> 436
+type -> Utility gift
+price -> 586
+value -> 3
+utility value : 1
+utility class : A
+
+gift -> 437
+type -> Utility gift
+price -> 534
+value -> 8
+utility value : 4
+utility class : C
+
+gift -> 438
+type -> Luxury gift
+price -> 22
+value -> 6
+luxury : 9
+difficulty_for_gift :1
+
+gift -> 439
+type -> Luxury gift
+price -> 141
+value -> 5
+luxury : 8
+difficulty_for_gift :6
+
+gift -> 440
+type -> Utility gift
+price -> 462
+value -> 5
+utility value : 3
+utility class : B
+
+gift -> 441
+type -> Essential gift
+price -> 64
+value -> 1
+
+gift -> 442
+type -> Luxury gift
+price -> 555
+value -> 9
+luxury : 3
+difficulty_for_gift :3
+
+gift -> 443
+type -> Utility gift
+price -> 423
+value -> 5
+utility value : 6
+utility class : B
+
+gift -> 444
+type -> Essential gift
+price -> 781
+value -> 9
+
+gift -> 445
+type -> Luxury gift
+price -> 803
+value -> 6
+luxury : 5
+difficulty_for_gift :3
+
+gift -> 446
+type -> Luxury gift
+price -> 926
+value -> 8
+luxury : 6
+difficulty_for_gift :3
+
+gift -> 447
+type -> Luxury gift
+price -> 549
+value -> 7
+luxury : 7
+difficulty_for_gift :1
+
+gift -> 448
+type -> Utility gift
+price -> 50
+value -> 2
+utility value : 3
+utility class : B
+
+gift -> 449
+type -> Essential gift
+price -> 655
+value -> 9
+
+gift -> 450
+type -> Luxury gift
+price -> 429
+value -> 3
+luxury : 8
+difficulty_for_gift :9
+
+gift -> 451
+type -> Essential gift
+price -> 338
+value -> 8
+
+gift -> 452
+type -> Luxury gift
+price -> 140
+value -> 5
+luxury : 6
+difficulty_for_gift :5
+
+gift -> 453
+type -> Essential gift
+price -> 283
+value -> 4
+
+gift -> 454
+type -> Utility gift
+price -> 237
+value -> 6
+utility value : 8
+utility class : C
+
+gift -> 455
+type -> Luxury gift
+price -> 300
+value -> 5
+luxury : 5
+difficulty_for_gift :1
+
+gift -> 456
+type -> Utility gift
+price -> 711
+value -> 3
+utility value : 3
+utility class : C
+
+gift -> 457
+type -> Luxury gift
+price -> 24
+value -> 2
+luxury : 2
+difficulty_for_gift :2
+
+gift -> 458
+type -> Luxury gift
+price -> 411
+value -> 1
+luxury : 1
+difficulty_for_gift :3
+
+gift -> 459
+type -> Essential gift
+price -> 148
+value -> 7
+
+gift -> 460
+type -> Luxury gift
+price -> 782
+value -> 10
+luxury : 9
+difficulty_for_gift :8
+
+gift -> 461
+type -> Essential gift
+price -> 376
+value -> 2
+
+gift -> 462
+type -> Utility gift
+price -> 675
+value -> 9
+utility value : 6
+utility class : B
+
+gift -> 463
+type -> Luxury gift
+price -> 977
+value -> 10
+luxury : 2
+difficulty_for_gift :5
+
+gift -> 464
+type -> Utility gift
+price -> 537
+value -> 8
+utility value : 7
+utility class : C
+
+gift -> 465
+type -> Luxury gift
+price -> 317
+value -> 1
+luxury : 10
+difficulty_for_gift :1
+
+gift -> 466
+type -> Utility gift
+price -> 987
+value -> 7
+utility value : 9
+utility class : A
+
+gift -> 467
+type -> Essential gift
+price -> 967
+value -> 7
+
+gift -> 468
+type -> Luxury gift
+price -> 694
+value -> 8
+luxury : 7
+difficulty_for_gift :10
+
+gift -> 469
+type -> Essential gift
+price -> 213
+value -> 7
+
+gift -> 470
+type -> Utility gift
+price -> 541
+value -> 8
+utility value : 6
+utility class : A
+
+gift -> 471
+type -> Essential gift
+price -> 632
+value -> 3
+
+gift -> 472
+type -> Utility gift
+price -> 631
+value -> 2
+utility value : 6
+utility class : B
+
+gift -> 473
+type -> Luxury gift
+price -> 448
+value -> 2
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 474
+type -> Utility gift
+price -> 796
+value -> 4
+utility value : 6
+utility class : B
+
+gift -> 475
+type -> Utility gift
+price -> 181
+value -> 1
+utility value : 8
+utility class : C
+
+gift -> 476
+type -> Luxury gift
+price -> 862
+value -> 7
+luxury : 5
+difficulty_for_gift :2
+
+gift -> 477
+type -> Essential gift
+price -> 70
+value -> 9
+
+gift -> 478
+type -> Luxury gift
+price -> 53
+value -> 3
+luxury : 6
+difficulty_for_gift :3
+
+gift -> 479
+type -> Essential gift
+price -> 503
+value -> 8
+
+gift -> 480
+type -> Luxury gift
+price -> 950
+value -> 1
+luxury : 2
+difficulty_for_gift :6
+
+gift -> 481
+type -> Luxury gift
+price -> 947
+value -> 10
+luxury : 8
+difficulty_for_gift :10
+
+gift -> 482
+type -> Essential gift
+price -> 629
+value -> 10
+
+gift -> 483
+type -> Utility gift
+price -> 529
+value -> 10
+utility value : 4
+utility class : B
+
+gift -> 484
+type -> Utility gift
+price -> 767
+value -> 1
+utility value : 5
+utility class : C
+
+gift -> 485
+type -> Luxury gift
+price -> 37
+value -> 7
+luxury : 5
+difficulty_for_gift :2
+
+gift -> 486
+type -> Essential gift
+price -> 239
+value -> 1
+
+gift -> 487
+type -> Utility gift
+price -> 540
+value -> 1
+utility value : 6
+utility class : B
+
+gift -> 488
+type -> Utility gift
+price -> 782
+value -> 7
+utility value : 1
+utility class : B
+
+gift -> 489
+type -> Utility gift
+price -> 879
+value -> 5
+utility value : 10
+utility class : A
+
+gift -> 490
+type -> Essential gift
+price -> 945
+value -> 5
+
+gift -> 491
+type -> Luxury gift
+price -> 712
+value -> 8
+luxury : 6
+difficulty_for_gift :8
+
+gift -> 492
+type -> Utility gift
+price -> 143
+value -> 5
+utility value : 3
+utility class : C
+
+gift -> 493
+type -> Utility gift
+price -> 711
+value -> 6
+utility value : 3
+utility class : A
+
+gift -> 494
+type -> Luxury gift
+price -> 468
+value -> 7
+luxury : 9
+difficulty_for_gift :2
+
+gift -> 495
+type -> Luxury gift
+price -> 161
+value -> 4
+luxury : 3
+difficulty_for_gift :9
+
+gift -> 496
+type -> Luxury gift
+price -> 15
+value -> 7
+luxury : 4
+difficulty_for_gift :9
+
+gift -> 497
+type -> Essential gift
+price -> 555
+value -> 10
+
+gift -> 498
+type -> Luxury gift
+price -> 660
+value -> 8
+luxury : 6
+difficulty_for_gift :2
+
+gift -> 499
+type -> Utility gift
+price -> 968
+value -> 9
+utility value : 1
+utility class : B
+
+gift -> 500
+type -> Luxury gift
+price -> 893
+value -> 2
+luxury : 4
+difficulty_for_gift :3
+
+gift -> 501
+type -> Utility gift
+price -> 354
+value -> 4
+utility value : 3
+utility class : B
+
+gift -> 502
+type -> Essential gift
+price -> 97
+value -> 2
+
+gift -> 503
+type -> Utility gift
+price -> 111
+value -> 10
+utility value : 2
+utility class : A
+
+gift -> 504
+type -> Luxury gift
+price -> 196
+value -> 1
+luxury : 10
+difficulty_for_gift :5
+
+gift -> 505
+type -> Luxury gift
+price -> 737
+value -> 9
+luxury : 3
+difficulty_for_gift :5
+
+gift -> 506
+type -> Essential gift
+price -> 296
+value -> 4
+
+gift -> 507
+type -> Essential gift
+price -> 188
+value -> 5
+
+gift -> 508
+type -> Essential gift
+price -> 252
+value -> 5
+
+gift -> 509
+type -> Utility gift
+price -> 565
+value -> 9
+utility value : 4
+utility class : B
+
+gift -> 510
+type -> Essential gift
+price -> 627
+value -> 2
+
+gift -> 511
+type -> Luxury gift
+price -> 326
+value -> 5
+luxury : 7
+difficulty_for_gift :7
+
+gift -> 512
+type -> Luxury gift
+price -> 457
+value -> 8
+luxury : 6
+difficulty_for_gift :7
+
+gift -> 513
+type -> Essential gift
+price -> 804
+value -> 1
+
+gift -> 514
+type -> Luxury gift
+price -> 883
+value -> 6
+luxury : 4
+difficulty_for_gift :9
+
+gift -> 515
+type -> Utility gift
+price -> 291
+value -> 6
+utility value : 7
+utility class : C
+
+gift -> 516
+type -> Essential gift
+price -> 864
+value -> 5
+
+gift -> 517
+type -> Essential gift
+price -> 409
+value -> 1
+
+gift -> 518
+type -> Utility gift
+price -> 162
+value -> 6
+utility value : 4
+utility class : B
+
+gift -> 519
+type -> Utility gift
+price -> 252
+value -> 5
+utility value : 1
+utility class : C
+
+gift -> 520
+type -> Luxury gift
+price -> 589
+value -> 6
+luxury : 8
+difficulty_for_gift :9
+
+gift -> 521
+type -> Essential gift
+price -> 682
+value -> 7
+
+gift -> 522
+type -> Essential gift
+price -> 330
+value -> 2
+
+gift -> 523
+type -> Essential gift
+price -> 835
+value -> 10
+
+gift -> 524
+type -> Essential gift
+price -> 902
+value -> 5
+
+gift -> 525
+type -> Luxury gift
+price -> 44
+value -> 3
+luxury : 6
+difficulty_for_gift :2
+
+gift -> 526
+type -> Essential gift
+price -> 543
+value -> 7
+
+gift -> 527
+type -> Utility gift
+price -> 497
+value -> 10
+utility value : 7
+utility class : B
+
+gift -> 528
+type -> Luxury gift
+price -> 429
+value -> 7
+luxury : 8
+difficulty_for_gift :6
+
+gift -> 529
+type -> Luxury gift
+price -> 925
+value -> 7
+luxury : 1
+difficulty_for_gift :6
+
+gift -> 530
+type -> Luxury gift
+price -> 254
+value -> 10
+luxury : 2
+difficulty_for_gift :6
+
+gift -> 531
+type -> Utility gift
+price -> 325
+value -> 10
+utility value : 7
+utility class : B
+
+gift -> 532
+type -> Essential gift
+price -> 204
+value -> 1
+
+gift -> 533
+type -> Luxury gift
+price -> 747
+value -> 7
+luxury : 1
+difficulty_for_gift :5
+
+gift -> 534
+type -> Utility gift
+price -> 859
+value -> 3
+utility value : 9
+utility class : C
+
+gift -> 535
+type -> Utility gift
+price -> 806
+value -> 4
+utility value : 5
+utility class : A
+
+gift -> 536
+type -> Essential gift
+price -> 948
+value -> 8
+
+gift -> 537
+type -> Utility gift
+price -> 201
+value -> 9
+utility value : 10
+utility class : C
+
+gift -> 538
+type -> Utility gift
+price -> 54
+value -> 10
+utility value : 8
+utility class : A
+
+gift -> 539
+type -> Utility gift
+price -> 211
+value -> 3
+utility value : 5
+utility class : A
+
+gift -> 540
+type -> Essential gift
+price -> 627
+value -> 3
+
+gift -> 541
+type -> Essential gift
+price -> 486
+value -> 7
+
+gift -> 542
+type -> Essential gift
+price -> 124
+value -> 5
+
+gift -> 543
+type -> Essential gift
+price -> 638
+value -> 2
+
+gift -> 544
+type -> Luxury gift
+price -> 411
+value -> 9
+luxury : 3
+difficulty_for_gift :10
+
+gift -> 545
+type -> Luxury gift
+price -> 272
+value -> 1
+luxury : 9
+difficulty_for_gift :2
+
+gift -> 546
+type -> Essential gift
+price -> 288
+value -> 9
+
+gift -> 547
+type -> Essential gift
+price -> 463
+value -> 2
+
+gift -> 548
+type -> Luxury gift
+price -> 719
+value -> 10
+luxury : 4
+difficulty_for_gift :6
+
+gift -> 549
+type -> Luxury gift
+price -> 862
+value -> 3
+luxury : 3
+difficulty_for_gift :8
+
+gift -> 550
+type -> Essential gift
+price -> 130
+value -> 2
+
+gift -> 551
+type -> Essential gift
+price -> 631
+value -> 5
+
+gift -> 552
+type -> Essential gift
+price -> 79
+value -> 8
+
+gift -> 553
+type -> Luxury gift
+price -> 79
+value -> 1
+luxury : 9
+difficulty_for_gift :7
+
+gift -> 554
+type -> Essential gift
+price -> 185
+value -> 6
+
+gift -> 555
+type -> Utility gift
+price -> 866
+value -> 10
+utility value : 4
+utility class : C
+
+gift -> 556
+type -> Luxury gift
+price -> 445
+value -> 4
+luxury : 6
+difficulty_for_gift :1
+
+gift -> 557
+type -> Luxury gift
+price -> 590
+value -> 4
+luxury : 5
+difficulty_for_gift :7
+
+gift -> 558
+type -> Luxury gift
+price -> 556
+value -> 4
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 559
+type -> Utility gift
+price -> 121
+value -> 10
+utility value : 9
+utility class : C
+
+gift -> 560
+type -> Utility gift
+price -> 57
+value -> 8
+utility value : 3
+utility class : A
+
+gift -> 561
+type -> Utility gift
+price -> 925
+value -> 9
+utility value : 5
+utility class : A
+
+gift -> 562
+type -> Utility gift
+price -> 265
+value -> 5
+utility value : 2
+utility class : B
+
+gift -> 563
+type -> Utility gift
+price -> 119
+value -> 1
+utility value : 10
+utility class : B
+
+gift -> 564
+type -> Utility gift
+price -> 264
+value -> 9
+utility value : 10
+utility class : A
+
+gift -> 565
+type -> Essential gift
+price -> 702
+value -> 8
+
+gift -> 566
+type -> Luxury gift
+price -> 130
+value -> 9
+luxury : 3
+difficulty_for_gift :7
+
+gift -> 567
+type -> Luxury gift
+price -> 56
+value -> 10
+luxury : 4
+difficulty_for_gift :10
+
+gift -> 568
+type -> Luxury gift
+price -> 238
+value -> 10
+luxury : 8
+difficulty_for_gift :4
+
+gift -> 569
+type -> Essential gift
+price -> 881
+value -> 5
+
+gift -> 570
+type -> Utility gift
+price -> 1000
+value -> 5
+utility value : 2
+utility class : A
+
+gift -> 571
+type -> Utility gift
+price -> 327
+value -> 5
+utility value : 3
+utility class : A
+
+gift -> 572
+type -> Essential gift
+price -> 97
+value -> 2
+
+gift -> 573
+type -> Luxury gift
+price -> 226
+value -> 2
+luxury : 2
+difficulty_for_gift :4
+
+gift -> 574
+type -> Essential gift
+price -> 287
+value -> 5
+
+gift -> 575
+type -> Utility gift
+price -> 618
+value -> 6
+utility value : 4
+utility class : B
+
+gift -> 576
+type -> Luxury gift
+price -> 338
+value -> 4
+luxury : 6
+difficulty_for_gift :4
+
+gift -> 577
+type -> Utility gift
+price -> 315
+value -> 9
+utility value : 1
+utility class : A
+
+gift -> 578
+type -> Luxury gift
+price -> 7
+value -> 5
+luxury : 6
+difficulty_for_gift :9
+
+gift -> 579
+type -> Utility gift
+price -> 132
+value -> 3
+utility value : 3
+utility class : A
+
+gift -> 580
+type -> Essential gift
+price -> 826
+value -> 5
+
+gift -> 581
+type -> Luxury gift
+price -> 464
+value -> 2
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 582
+type -> Essential gift
+price -> 486
+value -> 2
+
+gift -> 583
+type -> Utility gift
+price -> 175
+value -> 5
+utility value : 7
+utility class : C
+
+gift -> 584
+type -> Essential gift
+price -> 971
+value -> 9
+
+gift -> 585
+type -> Luxury gift
+price -> 103
+value -> 10
+luxury : 9
+difficulty_for_gift :9
+
+gift -> 586
+type -> Essential gift
+price -> 839
+value -> 3
+
+gift -> 587
+type -> Luxury gift
+price -> 943
+value -> 5
+luxury : 10
+difficulty_for_gift :9
+
+gift -> 588
+type -> Luxury gift
+price -> 136
+value -> 7
+luxury : 5
+difficulty_for_gift :7
+
+gift -> 589
+type -> Essential gift
+price -> 357
+value -> 4
+
+gift -> 590
+type -> Luxury gift
+price -> 848
+value -> 5
+luxury : 3
+difficulty_for_gift :5
+
+gift -> 591
+type -> Luxury gift
+price -> 703
+value -> 8
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 592
+type -> Utility gift
+price -> 887
+value -> 2
+utility value : 10
+utility class : B
+
+gift -> 593
+type -> Utility gift
+price -> 490
+value -> 7
+utility value : 10
+utility class : A
+
+gift -> 594
+type -> Essential gift
+price -> 851
+value -> 3
+
+gift -> 595
+type -> Luxury gift
+price -> 987
+value -> 9
+luxury : 10
+difficulty_for_gift :3
+
+gift -> 596
+type -> Essential gift
+price -> 677
+value -> 8
+
+gift -> 597
+type -> Luxury gift
+price -> 876
+value -> 4
+luxury : 6
+difficulty_for_gift :10
+
+gift -> 598
+type -> Essential gift
+price -> 270
+value -> 8
+
+gift -> 599
+type -> Essential gift
+price -> 710
+value -> 1
+
+gift -> 600
+type -> Luxury gift
+price -> 233
+value -> 2
+luxury : 1
+difficulty_for_gift :3
+
+gift -> 601
+type -> Utility gift
+price -> 447
+value -> 4
+utility value : 7
+utility class : C
+
+gift -> 602
+type -> Luxury gift
+price -> 229
+value -> 5
+luxury : 1
+difficulty_for_gift :9
+
+gift -> 603
+type -> Luxury gift
+price -> 795
+value -> 9
+luxury : 3
+difficulty_for_gift :5
+
+gift -> 604
+type -> Essential gift
+price -> 648
+value -> 8
+
+gift -> 605
+type -> Essential gift
+price -> 620
+value -> 4
+
+gift -> 606
+type -> Utility gift
+price -> 849
+value -> 5
+utility value : 1
+utility class : A
+
+gift -> 607
+type -> Utility gift
+price -> 356
+value -> 10
+utility value : 1
+utility class : B
+
+gift -> 608
+type -> Essential gift
+price -> 149
+value -> 3
+
+gift -> 609
+type -> Luxury gift
+price -> 178
+value -> 7
+luxury : 9
+difficulty_for_gift :5
+
+gift -> 610
+type -> Utility gift
+price -> 370
+value -> 9
+utility value : 4
+utility class : C
+
+gift -> 611
+type -> Luxury gift
+price -> 108
+value -> 2
+luxury : 10
+difficulty_for_gift :7
+
+gift -> 612
+type -> Utility gift
+price -> 441
+value -> 2
+utility value : 5
+utility class : C
+
+gift -> 613
+type -> Luxury gift
+price -> 187
+value -> 7
+luxury : 7
+difficulty_for_gift :2
+
+gift -> 614
+type -> Essential gift
+price -> 79
+value -> 3
+
+gift -> 615
+type -> Luxury gift
+price -> 227
+value -> 6
+luxury : 10
+difficulty_for_gift :5
+
+gift -> 616
+type -> Luxury gift
+price -> 968
+value -> 9
+luxury : 3
+difficulty_for_gift :9
+
+gift -> 617
+type -> Luxury gift
+price -> 188
+value -> 7
+luxury : 1
+difficulty_for_gift :5
+
+gift -> 618
+type -> Utility gift
+price -> 52
+value -> 3
+utility value : 3
+utility class : B
+
+gift -> 619
+type -> Essential gift
+price -> 307
+value -> 1
+
+gift -> 620
+type -> Utility gift
+price -> 494
+value -> 10
+utility value : 9
+utility class : B
+
+gift -> 621
+type -> Utility gift
+price -> 977
+value -> 10
+utility value : 8
+utility class : A
+
+gift -> 622
+type -> Essential gift
+price -> 139
+value -> 9
+
+gift -> 623
+type -> Luxury gift
+price -> 459
+value -> 9
+luxury : 2
+difficulty_for_gift :7
+
+gift -> 624
+type -> Utility gift
+price -> 721
+value -> 5
+utility value : 9
+utility class : B
+
+gift -> 625
+type -> Utility gift
+price -> 63
+value -> 10
+utility value : 7
+utility class : C
+
+gift -> 626
+type -> Essential gift
+price -> 316
+value -> 5
+
+gift -> 627
+type -> Utility gift
+price -> 161
+value -> 6
+utility value : 8
+utility class : A
+
+gift -> 628
+type -> Luxury gift
+price -> 484
+value -> 6
+luxury : 4
+difficulty_for_gift :8
+
+gift -> 629
+type -> Essential gift
+price -> 843
+value -> 9
+
+gift -> 630
+type -> Utility gift
+price -> 301
+value -> 9
+utility value : 7
+utility class : A
+
+gift -> 631
+type -> Essential gift
+price -> 938
+value -> 2
+
+gift -> 632
+type -> Essential gift
+price -> 304
+value -> 8
+
+gift -> 633
+type -> Luxury gift
+price -> 43
+value -> 4
+luxury : 6
+difficulty_for_gift :8
+
+gift -> 634
+type -> Essential gift
+price -> 463
+value -> 7
+
+gift -> 635
+type -> Utility gift
+price -> 98
+value -> 4
+utility value : 8
+utility class : A
+
+gift -> 636
+type -> Utility gift
+price -> 825
+value -> 8
+utility value : 7
+utility class : B
+
+gift -> 637
+type -> Utility gift
+price -> 467
+value -> 4
+utility value : 10
+utility class : B
+
+gift -> 638
+type -> Essential gift
+price -> 58
+value -> 6
+
+gift -> 639
+type -> Essential gift
+price -> 31
+value -> 6
+
+gift -> 640
+type -> Luxury gift
+price -> 418
+value -> 7
+luxury : 7
+difficulty_for_gift :4
+
+gift -> 641
+type -> Luxury gift
+price -> 875
+value -> 4
+luxury : 7
+difficulty_for_gift :1
+
+gift -> 642
+type -> Essential gift
+price -> 404
+value -> 7
+
+gift -> 643
+type -> Luxury gift
+price -> 818
+value -> 5
+luxury : 10
+difficulty_for_gift :5
+
+gift -> 644
+type -> Luxury gift
+price -> 550
+value -> 4
+luxury : 9
+difficulty_for_gift :3
+
+gift -> 645
+type -> Luxury gift
+price -> 6
+value -> 5
+luxury : 4
+difficulty_for_gift :3
+
+gift -> 646
+type -> Utility gift
+price -> 945
+value -> 8
+utility value : 5
+utility class : C
+
+gift -> 647
+type -> Luxury gift
+price -> 102
+value -> 7
+luxury : 9
+difficulty_for_gift :8
+
+gift -> 648
+type -> Luxury gift
+price -> 55
+value -> 10
+luxury : 7
+difficulty_for_gift :10
+
+gift -> 649
+type -> Luxury gift
+price -> 312
+value -> 7
+luxury : 1
+difficulty_for_gift :3
+
+gift -> 650
+type -> Essential gift
+price -> 33
+value -> 3
+
+gift -> 651
+type -> Utility gift
+price -> 204
+value -> 7
+utility value : 2
+utility class : B
+
+gift -> 652
+type -> Luxury gift
+price -> 928
+value -> 3
+luxury : 4
+difficulty_for_gift :2
+
+gift -> 653
+type -> Luxury gift
+price -> 558
+value -> 5
+luxury : 9
+difficulty_for_gift :1
+
+gift -> 654
+type -> Essential gift
+price -> 149
+value -> 8
+
+gift -> 655
+type -> Utility gift
+price -> 555
+value -> 8
+utility value : 2
+utility class : C
+
+gift -> 656
+type -> Essential gift
+price -> 325
+value -> 3
+
+gift -> 657
+type -> Essential gift
+price -> 327
+value -> 5
+
+gift -> 658
+type -> Essential gift
+price -> 879
+value -> 5
+
+gift -> 659
+type -> Utility gift
+price -> 226
+value -> 8
+utility value : 3
+utility class : C
+
+gift -> 660
+type -> Luxury gift
+price -> 155
+value -> 1
+luxury : 6
+difficulty_for_gift :7
+
+gift -> 661
+type -> Essential gift
+price -> 161
+value -> 5
+
+gift -> 662
+type -> Essential gift
+price -> 624
+value -> 3
+
+gift -> 663
+type -> Essential gift
+price -> 489
+value -> 7
+
+gift -> 664
+type -> Utility gift
+price -> 150
+value -> 3
+utility value : 4
+utility class : C
+
+gift -> 665
+type -> Utility gift
+price -> 449
+value -> 2
+utility value : 1
+utility class : A
+
+gift -> 666
+type -> Utility gift
+price -> 125
+value -> 10
+utility value : 10
+utility class : B
+
+gift -> 667
+type -> Essential gift
+price -> 787
+value -> 7
+
+gift -> 668
+type -> Luxury gift
+price -> 168
+value -> 5
+luxury : 7
+difficulty_for_gift :10
+
+gift -> 669
+type -> Utility gift
+price -> 631
+value -> 10
+utility value : 10
+utility class : C
+
+gift -> 670
+type -> Utility gift
+price -> 158
+value -> 4
+utility value : 1
+utility class : C
+
+gift -> 671
+type -> Luxury gift
+price -> 765
+value -> 4
+luxury : 10
+difficulty_for_gift :5
+
+gift -> 672
+type -> Essential gift
+price -> 53
+value -> 4
+
+gift -> 673
+type -> Utility gift
+price -> 177
+value -> 3
+utility value : 8
+utility class : C
+
+gift -> 674
+type -> Essential gift
+price -> 467
+value -> 8
+
+gift -> 675
+type -> Luxury gift
+price -> 634
+value -> 2
+luxury : 3
+difficulty_for_gift :5
+
+gift -> 676
+type -> Utility gift
+price -> 276
+value -> 6
+utility value : 9
+utility class : A
+
+gift -> 677
+type -> Luxury gift
+price -> 148
+value -> 4
+luxury : 8
+difficulty_for_gift :8
+
+gift -> 678
+type -> Utility gift
+price -> 894
+value -> 3
+utility value : 1
+utility class : A
+
+gift -> 679
+type -> Luxury gift
+price -> 903
+value -> 1
+luxury : 8
+difficulty_for_gift :2
+
+gift -> 680
+type -> Essential gift
+price -> 27
+value -> 2
+
+gift -> 681
+type -> Essential gift
+price -> 493
+value -> 9
+
+gift -> 682
+type -> Essential gift
+price -> 478
+value -> 2
+
+gift -> 683
+type -> Utility gift
+price -> 272
+value -> 1
+utility value : 8
+utility class : B
+
+gift -> 684
+type -> Utility gift
+price -> 688
+value -> 7
+utility value : 10
+utility class : A
+
+gift -> 685
+type -> Luxury gift
+price -> 437
+value -> 5
+luxury : 10
+difficulty_for_gift :9
+
+gift -> 686
+type -> Essential gift
+price -> 67
+value -> 10
+
+gift -> 687
+type -> Utility gift
+price -> 28
+value -> 9
+utility value : 1
+utility class : C
+
+gift -> 688
+type -> Utility gift
+price -> 874
+value -> 6
+utility value : 10
+utility class : C
+
+gift -> 689
+type -> Luxury gift
+price -> 159
+value -> 6
+luxury : 6
+difficulty_for_gift :3
+
+gift -> 690
+type -> Essential gift
+price -> 504
+value -> 2
+
+gift -> 691
+type -> Utility gift
+price -> 543
+value -> 8
+utility value : 1
+utility class : C
+
+gift -> 692
+type -> Luxury gift
+price -> 937
+value -> 2
+luxury : 2
+difficulty_for_gift :8
+
+gift -> 693
+type -> Utility gift
+price -> 639
+value -> 7
+utility value : 8
+utility class : B
+
+gift -> 694
+type -> Utility gift
+price -> 200
+value -> 1
+utility value : 1
+utility class : A
+
+gift -> 695
+type -> Essential gift
+price -> 452
+value -> 7
+
+gift -> 696
+type -> Utility gift
+price -> 611
+value -> 5
+utility value : 9
+utility class : B
+
+gift -> 697
+type -> Luxury gift
+price -> 954
+value -> 4
+luxury : 3
+difficulty_for_gift :8
+
+gift -> 698
+type -> Luxury gift
+price -> 655
+value -> 6
+luxury : 5
+difficulty_for_gift :2
+
+gift -> 699
+type -> Essential gift
+price -> 539
+value -> 1
+
+gift -> 700
+type -> Utility gift
+price -> 529
+value -> 9
+utility value : 4
+utility class : A
+
+gift -> 701
+type -> Utility gift
+price -> 35
+value -> 8
+utility value : 5
+utility class : A
+
+gift -> 702
+type -> Essential gift
+price -> 997
+value -> 6
+
+gift -> 703
+type -> Utility gift
+price -> 607
+value -> 10
+utility value : 8
+utility class : A
+
+gift -> 704
+type -> Essential gift
+price -> 3
+value -> 4
+
+gift -> 705
+type -> Essential gift
+price -> 851
+value -> 6
+
+gift -> 706
+type -> Utility gift
+price -> 206
+value -> 2
+utility value : 6
+utility class : B
+
+gift -> 707
+type -> Essential gift
+price -> 496
+value -> 9
+
+gift -> 708
+type -> Utility gift
+price -> 984
+value -> 4
+utility value : 7
+utility class : C
+
+gift -> 709
+type -> Luxury gift
+price -> 727
+value -> 3
+luxury : 6
+difficulty_for_gift :2
+
+gift -> 710
+type -> Utility gift
+price -> 121
+value -> 1
+utility value : 9
+utility class : B
+
+gift -> 711
+type -> Essential gift
+price -> 959
+value -> 8
+
+gift -> 712
+type -> Luxury gift
+price -> 362
+value -> 6
+luxury : 1
+difficulty_for_gift :9
+
+gift -> 713
+type -> Essential gift
+price -> 798
+value -> 2
+
+gift -> 714
+type -> Luxury gift
+price -> 342
+value -> 4
+luxury : 4
+difficulty_for_gift :10
+
+gift -> 715
+type -> Essential gift
+price -> 559
+value -> 3
+
+gift -> 716
+type -> Utility gift
+price -> 317
+value -> 1
+utility value : 10
+utility class : C
+
+gift -> 717
+type -> Luxury gift
+price -> 351
+value -> 3
+luxury : 1
+difficulty_for_gift :1
+
+gift -> 718
+type -> Essential gift
+price -> 775
+value -> 1
+
+gift -> 719
+type -> Luxury gift
+price -> 832
+value -> 2
+luxury : 10
+difficulty_for_gift :10
+
+gift -> 720
+type -> Utility gift
+price -> 20
+value -> 10
+utility value : 2
+utility class : A
+
+gift -> 721
+type -> Utility gift
+price -> 255
+value -> 8
+utility value : 10
+utility class : A
+
+gift -> 722
+type -> Utility gift
+price -> 529
+value -> 8
+utility value : 6
+utility class : B
+
+gift -> 723
+type -> Essential gift
+price -> 555
+value -> 7
+
+gift -> 724
+type -> Utility gift
+price -> 257
+value -> 9
+utility value : 10
+utility class : C
+
+gift -> 725
+type -> Utility gift
+price -> 56
+value -> 10
+utility value : 9
+utility class : B
+
+gift -> 726
+type -> Essential gift
+price -> 508
+value -> 9
+
+gift -> 727
+type -> Essential gift
+price -> 879
+value -> 8
+
+gift -> 728
+type -> Utility gift
+price -> 391
+value -> 6
+utility value : 3
+utility class : B
+
+gift -> 729
+type -> Luxury gift
+price -> 318
+value -> 3
+luxury : 6
+difficulty_for_gift :8
+
+gift -> 730
+type -> Essential gift
+price -> 882
+value -> 8
+
+gift -> 731
+type -> Luxury gift
+price -> 400
+value -> 7
+luxury : 10
+difficulty_for_gift :10
+
+gift -> 732
+type -> Utility gift
+price -> 528
+value -> 8
+utility value : 4
+utility class : C
+
+gift -> 733
+type -> Utility gift
+price -> 413
+value -> 9
+utility value : 5
+utility class : B
+
+gift -> 734
+type -> Utility gift
+price -> 305
+value -> 10
+utility value : 7
+utility class : B
+
+gift -> 735
+type -> Luxury gift
+price -> 840
+value -> 7
+luxury : 3
+difficulty_for_gift :9
+
+gift -> 736
+type -> Luxury gift
+price -> 898
+value -> 6
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 737
+type -> Utility gift
+price -> 173
+value -> 10
+utility value : 2
+utility class : C
+
+gift -> 738
+type -> Essential gift
+price -> 132
+value -> 4
+
+gift -> 739
+type -> Utility gift
+price -> 657
+value -> 2
+utility value : 5
+utility class : C
+
+gift -> 740
+type -> Luxury gift
+price -> 371
+value -> 2
+luxury : 9
+difficulty_for_gift :7
+
+gift -> 741
+type -> Luxury gift
+price -> 785
+value -> 3
+luxury : 1
+difficulty_for_gift :6
+
+gift -> 742
+type -> Utility gift
+price -> 95
+value -> 5
+utility value : 10
+utility class : B
+
+gift -> 743
+type -> Luxury gift
+price -> 810
+value -> 4
+luxury : 5
+difficulty_for_gift :2
+
+gift -> 744
+type -> Utility gift
+price -> 736
+value -> 8
+utility value : 3
+utility class : B
+
+gift -> 745
+type -> Luxury gift
+price -> 502
+value -> 5
+luxury : 2
+difficulty_for_gift :6
+
+gift -> 746
+type -> Essential gift
+price -> 816
+value -> 8
+
+gift -> 747
+type -> Essential gift
+price -> 644
+value -> 4
+
+gift -> 748
+type -> Utility gift
+price -> 781
+value -> 8
+utility value : 5
+utility class : A
+
+gift -> 749
+type -> Utility gift
+price -> 299
+value -> 2
+utility value : 9
+utility class : C
+
+gift -> 750
+type -> Essential gift
+price -> 818
+value -> 3
+
+gift -> 751
+type -> Utility gift
+price -> 151
+value -> 7
+utility value : 5
+utility class : B
+
+gift -> 752
+type -> Luxury gift
+price -> 573
+value -> 10
+luxury : 2
+difficulty_for_gift :7
+
+gift -> 753
+type -> Utility gift
+price -> 539
+value -> 3
+utility value : 9
+utility class : C
+
+gift -> 754
+type -> Utility gift
+price -> 683
+value -> 1
+utility value : 4
+utility class : C
+
+gift -> 755
+type -> Luxury gift
+price -> 468
+value -> 2
+luxury : 7
+difficulty_for_gift :6
+
+gift -> 756
+type -> Luxury gift
+price -> 625
+value -> 7
+luxury : 9
+difficulty_for_gift :2
+
+gift -> 757
+type -> Luxury gift
+price -> 326
+value -> 2
+luxury : 9
+difficulty_for_gift :10
+
+gift -> 758
+type -> Essential gift
+price -> 229
+value -> 2
+
+gift -> 759
+type -> Essential gift
+price -> 970
+value -> 8
+
+gift -> 760
+type -> Utility gift
+price -> 860
+value -> 2
+utility value : 3
+utility class : A
+
+gift -> 761
+type -> Utility gift
+price -> 387
+value -> 7
+utility value : 6
+utility class : C
+
+gift -> 762
+type -> Essential gift
+price -> 815
+value -> 4
+
+gift -> 763
+type -> Utility gift
+price -> 580
+value -> 9
+utility value : 8
+utility class : C
+
+gift -> 764
+type -> Luxury gift
+price -> 419
+value -> 8
+luxury : 4
+difficulty_for_gift :3
+
+gift -> 765
+type -> Utility gift
+price -> 105
+value -> 4
+utility value : 6
+utility class : A
+
+gift -> 766
+type -> Utility gift
+price -> 747
+value -> 6
+utility value : 10
+utility class : C
+
+gift -> 767
+type -> Essential gift
+price -> 654
+value -> 4
+
+gift -> 768
+type -> Essential gift
+price -> 40
+value -> 10
+
+gift -> 769
+type -> Luxury gift
+price -> 592
+value -> 8
+luxury : 2
+difficulty_for_gift :5
+
+gift -> 770
+type -> Essential gift
+price -> 23
+value -> 6
+
+gift -> 771
+type -> Utility gift
+price -> 361
+value -> 2
+utility value : 7
+utility class : A
+
+gift -> 772
+type -> Luxury gift
+price -> 241
+value -> 6
+luxury : 2
+difficulty_for_gift :4
+
+gift -> 773
+type -> Luxury gift
+price -> 390
+value -> 10
+luxury : 10
+difficulty_for_gift :7
+
+gift -> 774
+type -> Luxury gift
+price -> 897
+value -> 5
+luxury : 4
+difficulty_for_gift :1
+
+gift -> 775
+type -> Essential gift
+price -> 415
+value -> 2
+
+gift -> 776
+type -> Essential gift
+price -> 6
+value -> 9
+
+gift -> 777
+type -> Essential gift
+price -> 422
+value -> 10
+
+gift -> 778
+type -> Essential gift
+price -> 177
+value -> 8
+
+gift -> 779
+type -> Utility gift
+price -> 681
+value -> 6
+utility value : 10
+utility class : C
+
+gift -> 780
+type -> Luxury gift
+price -> 767
+value -> 9
+luxury : 2
+difficulty_for_gift :9
+
+gift -> 781
+type -> Essential gift
+price -> 503
+value -> 10
+
+gift -> 782
+type -> Essential gift
+price -> 225
+value -> 7
+
+gift -> 783
+type -> Utility gift
+price -> 248
+value -> 7
+utility value : 8
+utility class : B
+
+gift -> 784
+type -> Essential gift
+price -> 452
+value -> 9
+
+gift -> 785
+type -> Utility gift
+price -> 499
+value -> 1
+utility value : 8
+utility class : B
+
+gift -> 786
+type -> Luxury gift
+price -> 967
+value -> 10
+luxury : 7
+difficulty_for_gift :2
+
+gift -> 787
+type -> Luxury gift
+price -> 906
+value -> 10
+luxury : 7
+difficulty_for_gift :7
+
+gift -> 788
+type -> Luxury gift
+price -> 778
+value -> 6
+luxury : 6
+difficulty_for_gift :7
+
+gift -> 789
+type -> Essential gift
+price -> 831
+value -> 3
+
+gift -> 790
+type -> Utility gift
+price -> 430
+value -> 9
+utility value : 3
+utility class : B
+
+gift -> 791
+type -> Essential gift
+price -> 577
+value -> 2
+
+gift -> 792
+type -> Essential gift
+price -> 427
+value -> 2
+
+gift -> 793
+type -> Utility gift
+price -> 995
+value -> 1
+utility value : 10
+utility class : B
+
+gift -> 794
+type -> Luxury gift
+price -> 663
+value -> 7
+luxury : 5
+difficulty_for_gift :3
+
+gift -> 795
+type -> Luxury gift
+price -> 621
+value -> 6
+luxury : 1
+difficulty_for_gift :8
+
+gift -> 796
+type -> Luxury gift
+price -> 19
+value -> 1
+luxury : 3
+difficulty_for_gift :4
+
+gift -> 797
+type -> Essential gift
+price -> 5
+value -> 4
+
+gift -> 798
+type -> Essential gift
+price -> 448
+value -> 2
+
+gift -> 799
+type -> Essential gift
+price -> 909
+value -> 8
+
+gift -> 800
+type -> Essential gift
+price -> 163
+value -> 3
+
+gift -> 801
+type -> Essential gift
+price -> 33
+value -> 2
+
+gift -> 802
+type -> Luxury gift
+price -> 903
+value -> 7
+luxury : 4
+difficulty_for_gift :7
+
+gift -> 803
+type -> Luxury gift
+price -> 959
+value -> 9
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 804
+type -> Utility gift
+price -> 230
+value -> 10
+utility value : 9
+utility class : C
+
+gift -> 805
+type -> Essential gift
+price -> 577
+value -> 9
+
+gift -> 806
+type -> Essential gift
+price -> 879
+value -> 6
+
+gift -> 807
+type -> Essential gift
+price -> 109
+value -> 4
+
+gift -> 808
+type -> Utility gift
+price -> 765
+value -> 8
+utility value : 2
+utility class : C
+
+gift -> 809
+type -> Luxury gift
+price -> 855
+value -> 5
+luxury : 3
+difficulty_for_gift :1
+
+gift -> 810
+type -> Luxury gift
+price -> 291
+value -> 1
+luxury : 9
+difficulty_for_gift :2
+
+gift -> 811
+type -> Utility gift
+price -> 472
+value -> 10
+utility value : 10
+utility class : A
+
+gift -> 812
+type -> Luxury gift
+price -> 494
+value -> 5
+luxury : 8
+difficulty_for_gift :4
+
+gift -> 813
+type -> Luxury gift
+price -> 348
+value -> 9
+luxury : 3
+difficulty_for_gift :6
+
+gift -> 814
+type -> Essential gift
+price -> 942
+value -> 3
+
+gift -> 815
+type -> Essential gift
+price -> 93
+value -> 10
+
+gift -> 816
+type -> Utility gift
+price -> 947
+value -> 5
+utility value : 7
+utility class : C
+
+gift -> 817
+type -> Utility gift
+price -> 770
+value -> 10
+utility value : 5
+utility class : A
+
+gift -> 818
+type -> Luxury gift
+price -> 656
+value -> 2
+luxury : 1
+difficulty_for_gift :8
+
+gift -> 819
+type -> Essential gift
+price -> 784
+value -> 4
+
+gift -> 820
+type -> Essential gift
+price -> 789
+value -> 8
+
+gift -> 821
+type -> Essential gift
+price -> 697
+value -> 2
+
+gift -> 822
+type -> Utility gift
+price -> 472
+value -> 3
+utility value : 2
+utility class : A
+
+gift -> 823
+type -> Luxury gift
+price -> 931
+value -> 8
+luxury : 4
+difficulty_for_gift :7
+
+gift -> 824
+type -> Luxury gift
+price -> 663
+value -> 3
+luxury : 5
+difficulty_for_gift :4
+
+gift -> 825
+type -> Essential gift
+price -> 397
+value -> 5
+
+gift -> 826
+type -> Luxury gift
+price -> 898
+value -> 5
+luxury : 7
+difficulty_for_gift :3
+
+gift -> 827
+type -> Utility gift
+price -> 200
+value -> 7
+utility value : 8
+utility class : C
+
+gift -> 828
+type -> Utility gift
+price -> 666
+value -> 3
+utility value : 7
+utility class : A
+
+gift -> 829
+type -> Luxury gift
+price -> 978
+value -> 2
+luxury : 2
+difficulty_for_gift :9
+
+gift -> 830
+type -> Luxury gift
+price -> 767
+value -> 7
+luxury : 7
+difficulty_for_gift :1
+
+gift -> 831
+type -> Utility gift
+price -> 401
+value -> 6
+utility value : 9
+utility class : C
+
+gift -> 832
+type -> Luxury gift
+price -> 335
+value -> 7
+luxury : 7
+difficulty_for_gift :1
+
+gift -> 833
+type -> Luxury gift
+price -> 217
+value -> 3
+luxury : 7
+difficulty_for_gift :6
+
+gift -> 834
+type -> Luxury gift
+price -> 215
+value -> 2
+luxury : 5
+difficulty_for_gift :3
+
+gift -> 835
+type -> Essential gift
+price -> 242
+value -> 1
+
+gift -> 836
+type -> Luxury gift
+price -> 865
+value -> 1
+luxury : 5
+difficulty_for_gift :1
+
+gift -> 837
+type -> Utility gift
+price -> 673
+value -> 3
+utility value : 8
+utility class : B
+
+gift -> 838
+type -> Utility gift
+price -> 326
+value -> 2
+utility value : 10
+utility class : C
+
+gift -> 839
+type -> Utility gift
+price -> 777
+value -> 3
+utility value : 1
+utility class : A
+
+gift -> 840
+type -> Utility gift
+price -> 510
+value -> 10
+utility value : 10
+utility class : A
+
+gift -> 841
+type -> Luxury gift
+price -> 84
+value -> 8
+luxury : 1
+difficulty_for_gift :5
+
+gift -> 842
+type -> Luxury gift
+price -> 475
+value -> 9
+luxury : 10
+difficulty_for_gift :1
+
+gift -> 843
+type -> Luxury gift
+price -> 39
+value -> 3
+luxury : 3
+difficulty_for_gift :6
+
+gift -> 844
+type -> Luxury gift
+price -> 983
+value -> 2
+luxury : 9
+difficulty_for_gift :2
+
+gift -> 845
+type -> Utility gift
+price -> 371
+value -> 8
+utility value : 8
+utility class : B
+
+gift -> 846
+type -> Utility gift
+price -> 235
+value -> 2
+utility value : 2
+utility class : B
+
+gift -> 847
+type -> Essential gift
+price -> 754
+value -> 9
+
+gift -> 848
+type -> Luxury gift
+price -> 827
+value -> 4
+luxury : 6
+difficulty_for_gift :3
+
+gift -> 849
+type -> Utility gift
+price -> 158
+value -> 3
+utility value : 7
+utility class : C
+
+gift -> 850
+type -> Essential gift
+price -> 259
+value -> 1
+
+gift -> 851
+type -> Luxury gift
+price -> 593
+value -> 4
+luxury : 3
+difficulty_for_gift :5
+
+gift -> 852
+type -> Utility gift
+price -> 133
+value -> 4
+utility value : 9
+utility class : B
+
+gift -> 853
+type -> Luxury gift
+price -> 583
+value -> 9
+luxury : 9
+difficulty_for_gift :8
+
+gift -> 854
+type -> Luxury gift
+price -> 434
+value -> 6
+luxury : 4
+difficulty_for_gift :10
+
+gift -> 855
+type -> Utility gift
+price -> 329
+value -> 2
+utility value : 7
+utility class : C
+
+gift -> 856
+type -> Essential gift
+price -> 473
+value -> 3
+
+gift -> 857
+type -> Essential gift
+price -> 83
+value -> 6
+
+gift -> 858
+type -> Essential gift
+price -> 676
+value -> 9
+
+gift -> 859
+type -> Utility gift
+price -> 640
+value -> 10
+utility value : 4
+utility class : A
+
+gift -> 860
+type -> Utility gift
+price -> 961
+value -> 2
+utility value : 2
+utility class : C
+
+gift -> 861
+type -> Utility gift
+price -> 39
+value -> 8
+utility value : 6
+utility class : B
+
+gift -> 862
+type -> Utility gift
+price -> 487
+value -> 7
+utility value : 2
+utility class : A
+
+gift -> 863
+type -> Utility gift
+price -> 939
+value -> 6
+utility value : 5
+utility class : A
+
+gift -> 864
+type -> Essential gift
+price -> 457
+value -> 9
+
+gift -> 865
+type -> Essential gift
+price -> 132
+value -> 9
+
+gift -> 866
+type -> Essential gift
+price -> 123
+value -> 10
+
+gift -> 867
+type -> Luxury gift
+price -> 578
+value -> 7
+luxury : 1
+difficulty_for_gift :1
+
+gift -> 868
+type -> Luxury gift
+price -> 914
+value -> 3
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 869
+type -> Luxury gift
+price -> 752
+value -> 4
+luxury : 4
+difficulty_for_gift :8
+
+gift -> 870
+type -> Utility gift
+price -> 244
+value -> 10
+utility value : 7
+utility class : B
+
+gift -> 871
+type -> Utility gift
+price -> 150
+value -> 9
+utility value : 2
+utility class : C
+
+gift -> 872
+type -> Utility gift
+price -> 724
+value -> 9
+utility value : 1
+utility class : A
+
+gift -> 873
+type -> Utility gift
+price -> 414
+value -> 5
+utility value : 7
+utility class : A
+
+gift -> 874
+type -> Essential gift
+price -> 416
+value -> 9
+
+gift -> 875
+type -> Essential gift
+price -> 754
+value -> 10
+
+gift -> 876
+type -> Luxury gift
+price -> 857
+value -> 5
+luxury : 2
+difficulty_for_gift :6
+
+gift -> 877
+type -> Utility gift
+price -> 398
+value -> 7
+utility value : 7
+utility class : A
+
+gift -> 878
+type -> Essential gift
+price -> 127
+value -> 9
+
+gift -> 879
+type -> Essential gift
+price -> 856
+value -> 4
+
+gift -> 880
+type -> Luxury gift
+price -> 594
+value -> 6
+luxury : 6
+difficulty_for_gift :2
+
+gift -> 881
+type -> Essential gift
+price -> 602
+value -> 8
+
+gift -> 882
+type -> Utility gift
+price -> 419
+value -> 3
+utility value : 5
+utility class : B
+
+gift -> 883
+type -> Utility gift
+price -> 354
+value -> 4
+utility value : 4
+utility class : A
+
+gift -> 884
+type -> Luxury gift
+price -> 219
+value -> 10
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 885
+type -> Utility gift
+price -> 965
+value -> 6
+utility value : 5
+utility class : C
+
+gift -> 886
+type -> Essential gift
+price -> 780
+value -> 8
+
+gift -> 887
+type -> Luxury gift
+price -> 726
+value -> 5
+luxury : 5
+difficulty_for_gift :7
+
+gift -> 888
+type -> Utility gift
+price -> 567
+value -> 6
+utility value : 2
+utility class : A
+
+gift -> 889
+type -> Luxury gift
+price -> 496
+value -> 3
+luxury : 8
+difficulty_for_gift :2
+
+gift -> 890
+type -> Utility gift
+price -> 261
+value -> 1
+utility value : 7
+utility class : A
+
+gift -> 891
+type -> Utility gift
+price -> 83
+value -> 6
+utility value : 9
+utility class : B
+
+gift -> 892
+type -> Luxury gift
+price -> 713
+value -> 1
+luxury : 4
+difficulty_for_gift :2
+
+gift -> 893
+type -> Essential gift
+price -> 533
+value -> 7
+
+gift -> 894
+type -> Utility gift
+price -> 498
+value -> 5
+utility value : 2
+utility class : B
+
+gift -> 895
+type -> Essential gift
+price -> 155
+value -> 10
+
+gift -> 896
+type -> Utility gift
+price -> 2
+value -> 2
+utility value : 1
+utility class : C
+
+gift -> 897
+type -> Utility gift
+price -> 703
+value -> 6
+utility value : 8
+utility class : A
+
+gift -> 898
+type -> Luxury gift
+price -> 71
+value -> 2
+luxury : 6
+difficulty_for_gift :9
+
+gift -> 899
+type -> Utility gift
+price -> 918
+value -> 2
+utility value : 10
+utility class : B
+
+gift -> 900
+type -> Utility gift
+price -> 874
+value -> 10
+utility value : 9
+utility class : A
+
+gift -> 901
+type -> Luxury gift
+price -> 292
+value -> 6
+luxury : 8
+difficulty_for_gift :8
+
+gift -> 902
+type -> Essential gift
+price -> 191
+value -> 10
+
+gift -> 903
+type -> Luxury gift
+price -> 281
+value -> 4
+luxury : 2
+difficulty_for_gift :5
+
+gift -> 904
+type -> Essential gift
+price -> 760
+value -> 1
+
+gift -> 905
+type -> Utility gift
+price -> 182
+value -> 4
+utility value : 1
+utility class : B
+
+gift -> 906
+type -> Luxury gift
+price -> 320
+value -> 3
+luxury : 1
+difficulty_for_gift :1
+
+gift -> 907
+type -> Essential gift
+price -> 144
+value -> 10
+
+gift -> 908
+type -> Utility gift
+price -> 867
+value -> 5
+utility value : 10
+utility class : C
+
+gift -> 909
+type -> Essential gift
+price -> 789
+value -> 1
+
+gift -> 910
+type -> Essential gift
+price -> 588
+value -> 2
+
+gift -> 911
+type -> Utility gift
+price -> 942
+value -> 3
+utility value : 3
+utility class : A
+
+gift -> 912
+type -> Essential gift
+price -> 333
+value -> 8
+
+gift -> 913
+type -> Utility gift
+price -> 316
+value -> 10
+utility value : 7
+utility class : B
+
+gift -> 914
+type -> Luxury gift
+price -> 791
+value -> 5
+luxury : 2
+difficulty_for_gift :8
+
+gift -> 915
+type -> Luxury gift
+price -> 131
+value -> 6
+luxury : 6
+difficulty_for_gift :7
+
+gift -> 916
+type -> Utility gift
+price -> 232
+value -> 1
+utility value : 5
+utility class : A
+
+gift -> 917
+type -> Utility gift
+price -> 43
+value -> 5
+utility value : 4
+utility class : C
+
+gift -> 918
+type -> Luxury gift
+price -> 516
+value -> 7
+luxury : 3
+difficulty_for_gift :8
+
+gift -> 919
+type -> Essential gift
+price -> 918
+value -> 5
+
+gift -> 920
+type -> Utility gift
+price -> 164
+value -> 9
+utility value : 7
+utility class : B
+
+gift -> 921
+type -> Luxury gift
+price -> 308
+value -> 2
+luxury : 4
+difficulty_for_gift :10
+
+gift -> 922
+type -> Utility gift
+price -> 862
+value -> 8
+utility value : 5
+utility class : C
+
+gift -> 923
+type -> Utility gift
+price -> 429
+value -> 6
+utility value : 6
+utility class : C
+
+gift -> 924
+type -> Utility gift
+price -> 231
+value -> 8
+utility value : 2
+utility class : A
+
+gift -> 925
+type -> Utility gift
+price -> 154
+value -> 3
+utility value : 2
+utility class : C
+
+gift -> 926
+type -> Luxury gift
+price -> 839
+value -> 6
+luxury : 7
+difficulty_for_gift :5
+
+gift -> 927
+type -> Utility gift
+price -> 193
+value -> 4
+utility value : 3
+utility class : A
+
+gift -> 928
+type -> Luxury gift
+price -> 833
+value -> 9
+luxury : 3
+difficulty_for_gift :7
+
+gift -> 929
+type -> Luxury gift
+price -> 92
+value -> 7
+luxury : 1
+difficulty_for_gift :9
+
+gift -> 930
+type -> Luxury gift
+price -> 923
+value -> 9
+luxury : 9
+difficulty_for_gift :6
+
+gift -> 931
+type -> Essential gift
+price -> 485
+value -> 9
+
+gift -> 932
+type -> Utility gift
+price -> 379
+value -> 10
+utility value : 8
+utility class : C
+
+gift -> 933
+type -> Luxury gift
+price -> 216
+value -> 4
+luxury : 6
+difficulty_for_gift :8
+
+gift -> 934
+type -> Essential gift
+price -> 980
+value -> 6
+
+gift -> 935
+type -> Essential gift
+price -> 812
+value -> 6
+
+gift -> 936
+type -> Luxury gift
+price -> 970
+value -> 1
+luxury : 7
+difficulty_for_gift :7
+
+gift -> 937
+type -> Essential gift
+price -> 258
+value -> 8
+
+gift -> 938
+type -> Essential gift
+price -> 758
+value -> 6
+
+gift -> 939
+type -> Luxury gift
+price -> 4
+value -> 3
+luxury : 10
+difficulty_for_gift :3
+
+gift -> 940
+type -> Essential gift
+price -> 481
+value -> 1
+
+gift -> 941
+type -> Essential gift
+price -> 398
+value -> 6
+
+gift -> 942
+type -> Luxury gift
+price -> 205
+value -> 6
+luxury : 1
+difficulty_for_gift :5
+
+gift -> 943
+type -> Utility gift
+price -> 94
+value -> 8
+utility value : 8
+utility class : C
+
+gift -> 944
+type -> Utility gift
+price -> 538
+value -> 5
+utility value : 4
+utility class : C
+
+gift -> 945
+type -> Luxury gift
+price -> 191
+value -> 8
+luxury : 2
+difficulty_for_gift :8
+
+gift -> 946
+type -> Essential gift
+price -> 697
+value -> 2
+
+gift -> 947
+type -> Luxury gift
+price -> 889
+value -> 4
+luxury : 1
+difficulty_for_gift :1
+
+gift -> 948
+type -> Luxury gift
+price -> 560
+value -> 7
+luxury : 6
+difficulty_for_gift :5
+
+gift -> 949
+type -> Essential gift
+price -> 178
+value -> 1
+
+gift -> 950
+type -> Essential gift
+price -> 271
+value -> 8
+
+gift -> 951
+type -> Utility gift
+price -> 259
+value -> 5
+utility value : 3
+utility class : C
+
+gift -> 952
+type -> Luxury gift
+price -> 774
+value -> 9
+luxury : 10
+difficulty_for_gift :2
+
+gift -> 953
+type -> Luxury gift
+price -> 510
+value -> 10
+luxury : 8
+difficulty_for_gift :1
+
+gift -> 954
+type -> Utility gift
+price -> 447
+value -> 7
+utility value : 3
+utility class : C
+
+gift -> 955
+type -> Utility gift
+price -> 242
+value -> 7
+utility value : 6
+utility class : B
+
+gift -> 956
+type -> Essential gift
+price -> 4
+value -> 8
+
+gift -> 957
+type -> Essential gift
+price -> 626
+value -> 6
+
+gift -> 958
+type -> Essential gift
+price -> 885
+value -> 10
+
+gift -> 959
+type -> Essential gift
+price -> 470
+value -> 10
+
+gift -> 960
+type -> Luxury gift
+price -> 990
+value -> 1
+luxury : 6
+difficulty_for_gift :2
+
+gift -> 961
+type -> Essential gift
+price -> 208
+value -> 9
+
+gift -> 962
+type -> Essential gift
+price -> 79
+value -> 7
+
+gift -> 963
+type -> Luxury gift
+price -> 761
+value -> 6
+luxury : 9
+difficulty_for_gift :5
+
+gift -> 964
+type -> Utility gift
+price -> 446
+value -> 2
+utility value : 2
+utility class : C
+
+gift -> 965
+type -> Utility gift
+price -> 846
+value -> 7
+utility value : 7
+utility class : B
+
+gift -> 966
+type -> Luxury gift
+price -> 296
+value -> 6
+luxury : 2
+difficulty_for_gift :7
+
+gift -> 967
+type -> Essential gift
+price -> 121
+value -> 10
+
+gift -> 968
+type -> Essential gift
+price -> 324
+value -> 1
+
+gift -> 969
+type -> Essential gift
+price -> 733
+value -> 5
+
+gift -> 970
+type -> Essential gift
+price -> 291
+value -> 3
+
+gift -> 971
+type -> Essential gift
+price -> 376
+value -> 3
+
+gift -> 972
+type -> Essential gift
+price -> 180
+value -> 1
+
+gift -> 973
+type -> Utility gift
+price -> 301
+value -> 1
+utility value : 7
+utility class : A
+
+gift -> 974
+type -> Luxury gift
+price -> 825
+value -> 5
+luxury : 1
+difficulty_for_gift :2
+
+gift -> 975
+type -> Luxury gift
+price -> 432
+value -> 9
+luxury : 2
+difficulty_for_gift :5
+
+gift -> 976
+type -> Essential gift
+price -> 592
+value -> 8
+
+gift -> 977
+type -> Essential gift
+price -> 708
+value -> 2
+
+gift -> 978
+type -> Utility gift
+price -> 255
+value -> 3
+utility value : 9
+utility class : B
+
+gift -> 979
+type -> Essential gift
+price -> 704
+value -> 10
+
+gift -> 980
+type -> Utility gift
+price -> 764
+value -> 7
+utility value : 1
+utility class : A
+
+gift -> 981
+type -> Essential gift
+price -> 11
+value -> 5
+
+gift -> 982
+type -> Luxury gift
+price -> 565
+value -> 5
+luxury : 1
+difficulty_for_gift :4
+
+gift -> 983
+type -> Essential gift
+price -> 381
+value -> 8
+
+gift -> 984
+type -> Utility gift
+price -> 960
+value -> 9
+utility value : 4
+utility class : B
+
+gift -> 985
+type -> Essential gift
+price -> 846
+value -> 5
+
+gift -> 986
+type -> Luxury gift
+price -> 800
+value -> 4
+luxury : 9
+difficulty_for_gift :9
+
+gift -> 987
+type -> Luxury gift
+price -> 838
+value -> 10
+luxury : 2
+difficulty_for_gift :7
+
+gift -> 988
+type -> Utility gift
+price -> 919
+value -> 1
+utility value : 10
+utility class : C
+
+gift -> 989
+type -> Essential gift
+price -> 724
+value -> 10
+
+gift -> 990
+type -> Luxury gift
+price -> 430
+value -> 8
+luxury : 10
+difficulty_for_gift :7
+
+gift -> 991
+type -> Utility gift
+price -> 821
+value -> 7
+utility value : 7
+utility class : C
+
+gift -> 992
+type -> Luxury gift
+price -> 534
+value -> 6
+luxury : 8
+difficulty_for_gift :3
+
+gift -> 993
+type -> Luxury gift
+price -> 738
+value -> 4
+luxury : 9
+difficulty_for_gift :8
+
+gift -> 994
+type -> Luxury gift
+price -> 992
+value -> 4
+luxury : 4
+difficulty_for_gift :10
+
+gift -> 995
+type -> Utility gift
+price -> 464
+value -> 3
+utility value : 5
+utility class : B
+
+gift -> 996
+type -> Utility gift
+price -> 686
+value -> 10
+utility value : 3
+utility class : B
+
+gift -> 997
+type -> Luxury gift
+price -> 246
+value -> 7
+luxury : 4
+difficulty_for_gift :2
+
+gift -> 998
+type -> Essential gift
+price -> 170
+value -> 6
+
+gift -> 999
+type -> Utility gift
+price -> 349
+value -> 10
+utility value : 3
+utility class : A
+
+gift -> 1000
+type -> Utility gift
+price -> 141
+value -> 6
+utility value : 5
+utility class : B
+
